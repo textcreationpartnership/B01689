@@ -1,0 +1,1075 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yr ymroddiad neu bapuryn a gyfieuthiwyd ddwywaith i helpu y cymru unwaith allan or hunan ar drygioni. Fe ai c yfieithwyd [sic] yn y flwyddyn 1654.</title>
+            <title>Weg zu Christo. Selections. Welsh. 1654.</title>
+            <author>Böhme, Jakob, 1575-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01689</idno>
+            <idno type="STC">Wing B3427A</idno>
+            <idno type="STC">ESTC R215193</idno>
+            <idno type="EEBO-CITATION">49521470</idno>
+            <idno type="OCLC">ocm 49521470</idno>
+            <idno type="VID">174172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174172)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2672:2a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yr ymroddiad neu bapuryn a gyfieuthiwyd ddwywaith i helpu y cymru unwaith allan or hunan ar drygioni. Fe ai c yfieithwyd [sic] yn y flwyddyn 1654.</title>
+                  <title>Weg zu Christo. Selections. Welsh. 1654.</title>
+                  <author>Böhme, Jakob, 1575-1624.</author>
+                  <author>Llwyd, Morgan, 1619-1659.</author>
+                  <author>Sparrow, John, 1615-1665?</author>
+               </titleStmt>
+               <extent>[10], 128 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Ag ai printiwyd 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>A translation by Morgan Llwyd from the English translation by John Sparrow of "Von wahrer Gelassenheit" and "Vom übersinnlichen Leben" from "Der Weg zu Christo" by Jacob Böhme.  Cf. ESTC.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+                  <note>With: Cyfarwyddid ir Cymru. Printiedig yn Llundain, [s.n.], 1657.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Mysticism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174172:1" rendition="simple:additions"/>
+            <pb facs="tcp:174172:1" rendition="simple:additions"/>
+            <pb facs="tcp:174172:2"/>
+            <pb facs="tcp:174172:2"/>
+            <p>YR YMRODDIAD</p>
+            <p>NEU BAPURYN A GYFIEUTHIWYD DDWYWAITH I Helpu y cymru unwaith allan or Hunan ar drygioni.</p>
+            <p>Fe ai cyfieithwyd yn y flwy<g ref="char:EOLhyphen"/>ddyn <date>1654</date>. Ag ai printiwyd <date>1657</date>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:174172:3"/>
+            <pb facs="tcp:174172:3"/>
+            <head>Y Blaenymadrodd, at y Darllenydd.</head>
+            <p>GWerthfawr yw 'r Gair ſydd yn dwyn yſpryd y Creadur i lwyr ymoſtwng ir Duw Holla<g ref="char:EOLhyphen"/>lluog Bendigedig bytb. Heb hyn, ni thâl crefydd dyn ddim.</p>
+            <p>Dau Hunan ſydd yn ymryſon, ſef, Hunan Duw gida Chriſt (ein bywyd) yn y ſaith ysbryd perffeiddlan, or naill dy; a Hunan dyn gida'r pechod (angan'r enaid) ar diafol yn y ſaith ysbryd aflan, or ty arall, y rhai a weithredant drwy holl gwrs naturi<g ref="char:EOLhyphen"/>aeth.</p>
+            <p>Ag mae ewyllys dyn (yr hwn y wnaed yn-nhragwyddoldeb, ag erddo ag ynddo y mae yn ſefyll) fel clicced ar ddrws: Os yr enaid a ymry yn ei ewyllys i ymagoryd, mae 'r hwn ſydd
+<pb facs="tcp:174172:4"/>
+yn cûro (pwy bynag yw) wrth y drws, yn dyfod i mewn ir galon, ag yn me<g ref="char:EOLhyphen"/>ddiannu 'r meddwl iddo ei hun, ag yn taflu allan yr hyn oedd yn cadw oddifewn or blaen, nid oes chwaith jechydwriaeth ir enaid nes taflu allan o hono y cythreuliad ar trawfeiddiaid, fel y bo 'r enaid yn dy i Dduw.</p>
+            <p>Hyn yw diben y llyfr bychan hwn. Os cei di (Ddarllenwr neu wrandawr) lès drwyddo (fel y gelli gael) drwy ddyfod vnwaith yn hollhawl or Hunan ar oferedd, i ddilyn Chriſt, ag aros felly yn ddibaid allan oth ewyllys dy hun, fe fyddi ti ag i minnau fawr lawenydd a digrifwch nefol ar ddydd y farn.</p>
+            <p>Ond gwilied a gocheled pob un farnu neu feio ar yr hyn ſydd yn y llyfran <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn cyn iddo ddeall y peth ai ddir<g ref="char:EOLhyphen"/>nad ei hun. Canys echrydus yw cy<g ref="char:EOLhyphen"/>flwr llawer ſy 'n cablu ag yn drwgeirio yr hyn ni ddeallaut, ag yn ymlygru yn yr hyn a wyddant, heb adnabod Duw, nai cydnabod ei bunain. Anifeiliaid drwg yw 'r rhain a wnaed iw dal ag
+<pb facs="tcp:174172:4"/>
+iw difetha, ag maent yn boddi yn ei llwgr ei hunain.</p>
+            <p>Am y llyfr hwn. Os cyſglyd yw 'r enaid, wele yma eiriau nefol yn dwfn<g ref="char:EOLhyphen"/>chwilio ag yn deffro 'r gydwybod, yn tymhigo dyfnion reſymau 'r galon, ag yn dangos i ddyn ei feddyliau ei hun, ag i ba le y mae 'r enaid gwerthfawr yn myned, a bod y ffordd ir bywyd yn gyfyng anfeidrol, ag er hyny yn eglur ag yn olau yn llewyrch yr Arglwydd mawr ſydd yn goleuo 'r hollfyd.</p>
+            <p>Ond os (wedi deffro) hyll, halt a chwerw ſydd ysbryd rhyw vn, a thym<g ref="char:EOLhyphen"/>heſtlog yn peri crynfa, wele, yma jaith fwyn dyner lariaidd ddofn ysbrydol, wele eniau cariadus dros ben, ag er hyny chw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lio y maent waelod briwiau yr enaid, Nid yn coethi mewn creulon<g ref="char:EOLhyphen"/>dra, nid yn tryſtio yn lle tyſtio, ond yn ynnill drwy fwyneidddra a dealldwri<g ref="char:EOLhyphen"/>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, gan ddangos y peth fel y mae<g ref="char:EOLhyphen"/>O Bobl, ysbryd llon yddwch etto ceiſi<g ref="char:EOLhyphen"/>wch, etto dyſgwch, Dyſg hyd angau, ag angau ir ſawl ni ddyſgo, meddai 'r Henafiaid.</p>
+            <p>
+               <pb facs="tcp:174172:5"/>Os gwnei di groeſaw dirgel yn dy galon ir gwirioneddau hyn, fe allai y rhoddai ein Harglwydd Air ag Amſer i ddanfon attad ymhellach. Mi a wn nad wyf yn cynnig i ti ond pethau ja<g ref="char:EOLhyphen"/>chus i gryfhau Duwioldeb or tu fewn i ti, fel y gellych ymarfer Duwioldeb or tu allan hefyd. Nid opiniwnan gwei<g ref="char:EOLhyphen"/>gion (or rhai y mae gormod yn ybyd) yw 'r pethau hyn.</p>
+            <p>Mae hiraeth ar fynghalon i am allel gwaſnaethu yn well fy Nuw am gwlad (y Bruttaniaid tirion)am hyny nid llafur yw llafur i mi yn ol y da<g ref="char:EOLhyphen"/>lent ar amſer a dderbyniodd vn ach câr, ag a ddanfonodd attoch mewn gwendid cyn hyn.</p>
+            <closer>
+               <signed>M. LL.</signed>
+            </closer>
+            <pb facs="tcp:174172:5"/>
+         </div>
+         <div type="introduction_to_Welsh_orthography">
+            <pb facs="tcp:174172:6"/>
+            <div type="alphabet">
+               <head>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Llythyrena<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </head>
+               <p>A B C Ch D Dd E F Ff G
+NG H I Ll M N O P Ph R
+S T Th U W X Y Z.
+a b c ch d dd ef ff g ng h i
+l ll m n o p ph r ſ s t tn v u
+w x y z.</p>
+               <p>Bogeiliaid: a e i o u w y</p>
+            </div>
+            <div type="guide_to_syllabification">
+               <head>Y Sylafau.</head>
+               <l>Ab eb ib ob ub wb yb.</l>
+               <l>Ac ec ic oc uc wc yc.</l>
+               <l>Ach ech ich och uch wch ych.</l>
+               <l>Ad ed id od ud wd yd.</l>
+               <l>Add edd idd odd udd wdd ydd.</l>
+               <l>Af ef if of uf wf yf.</l>
+               <l>Aff eff iff off uff wff yff.</l>
+               <l>Ag eg ig og ug wg yg.</l>
+               <l>Ang eng ing ong ung wng yng.</l>
+               <l>Ah eh ih oh uh wh yh.</l>
+               <l>Al el il ol ul wl yl.</l>
+               <l>All ell ill oll ull wll yll.</l>
+               <l>Am em im om um wm ym.</l>
+               <l>An en in on un wn yn.</l>
+               <l>Ap ep ip op up wp yp.</l>
+               <l>Aph eph iph oph uph wph yph.</l>
+               <l>
+                  <pb facs="tcp:174172:6"/>Ar er ir or ur wr yr.</l>
+               <l>As es is os us ws ys.</l>
+               <l>At et it ot ut wt yt.</l>
+               <l>Ath eth ith oth uth wth yth.</l>
+            </div>
+            <div type="list_of_numbers">
+               <head>Dau parth gwaith yw dechreu.</head>
+               <p>1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90. 91. 92. 93. 94. 95. 96. 97. 98. 99. 100. 101. 102. &amp;c.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:174172:7"/>
+            <pb n="1" facs="tcp:174172:7"/>
+            <head>Yr ymroddiad NEU Bapuryn a gyfieuthiwyd ddwywaith i helpu y cymru unwaith allan or Hunan ar drygioni.</head>
+            <div n="1" type="chapter">
+               <head>Pennod. 1.</head>
+               <p n="1">1. MAe genym ni eglurſiampl yn Luciffer, ag hefyd yn Adda (y dyn cyntaf) or peth a wna Hunan, pan gaffo fo unwaith oleuni naturiaeth iw feddiant i rodio yn y dealldwria<g ref="char:EOLhyphen"/>eth yn ei Arglwyddiaeth ei hunan.</p>
+               <p n="2">2. Ni welwn hyn hefyd mewn gwyr ynt ddyſcedig mewn cylfy<g ref="char:EOLhyphen"/>ddydau
+<pb n="2" facs="tcp:174172:8"/>
+a dyſceidiaeth, mae pan gaffont hwy lewyrch y byd yma ar natur oddiallan i mewn iw rheſ<g ref="char:EOLhyphen"/>wm, ei diwedd yw Balchio ynddynt ei hunain.</p>
+               <p n="3">3. Ag er hyn mae 'r holl fyd o ddifri yn chwennych ag yn ceiſio y goleuni yma fel y tryſſor gorau. Ag yn wir hwn iw 'r tryſor pennaf ſydd gan y byd yma os arferir ef yn uniawn.</p>
+               <p n="4">4. Ond tra fo Hunan Dyn (neu ei reſwm) wedi i faglu ai rwymo mewn carchar caeth cryf, ſef yn nigofaint Duw ag mewn dayarol<g ref="char:EOLhyphen"/>deb, mae 'n beryglus jawn i ddyn gynhyrfu goleuni gwybodaeth ynddo ei hunan, fel ped fai yn ei eiddo ei hunan.</p>
+               <p n="5">5. Canys buan y cymer digllo<g ref="char:EOLhyphen"/>nedd y naturiaeth dragwyddol ar amſerol, ddifyrrwch ynddo, ag yno Hunan dyn ai reſwm a ymgyfyd mewn balchder, ag ai tyrr ei hunan oddiwrth y
+<pb n="3" facs="tcp:174172:8"/>
+gwir oſtyngedig <hi>Ymroddiad</hi> tuag at Dduw ag ni fyn ef fwytta mwy o ffrwyth Paradwys, ond oi anian ei hunan, ſef o Arglwyddiaeth y bywyd hwnw yn yr hwn y mae da a drwg yn gymyſg.</p>
+               <p n="6">6. Felly y gwnaeth Luciffer ag Adda, y rhai a aethont drwy chwant at Hunan i mewn ir gwa<g ref="char:EOLhyphen"/>elod dwfn gwreiddiol ar cychwy<g ref="char:EOLhyphen"/>niad, or hwn y dygwyd y creadu<g ref="char:EOLhyphen"/>riaid allan, ag felly a lyngcwyd i mewn i natur ag i gyflwr y crea<g ref="char:EOLhyphen"/>duriaid.</p>
+               <p n="7">7. Luciffer a ruthrodd i mewn ir perfedd-bwynt ar erchyll natu<g ref="char:EOLhyphen"/>riaeth, i grôth y Tân, ag Adda yntau ir naturiaeth ddayarol, i grôth y byd yma, ſef i chwantu ar ol da a drwg.</p>
+               <p n="8">8. A hyny a ddigwyddodd iddynt ill dau, oblegid yr oedd ganddynt oleuni Deall diſclair mewn Hunan, yn yr hwn y gallent ei canfod ei hunain, Drwy 'r hwn,
+<pb n="4" facs="tcp:174172:9"/>
+hefyd yr aeth ysbryd Hunan i mewn ir bwriad (ſef ir chwant i gael y canolbwynt) fel y gallent i gwychu ei hunain, a mynd yn fawrion, yn alluogion ag yn ddea<g ref="char:EOLhyphen"/>llus.</p>
+               <p n="9">9. Ond pan geiſiodd Luciffer grôth y tân yn ei ganol fan, gan feddwl drwy hyny lywodraethu ar gariad Duw ag ar yr holl ange<g ref="char:EOLhyphen"/>lion, a phan chwenychodd Adda brofi yn yr hanffod beth oedd yn y grôth (llei tarddodd da a drwg allan) gan ddwyn i ddeyſyfiad i mewn iddi, o bwrpas i fod yn gelfyddgar ag yn ddeallus, fe garcharwyd y ddau (ſef Luciffer ag Adda) yn ei trachwant yn y fammwvs.</p>
+               <p n="10">10. Nhwy ai torraſont ei hunain oddiwrth yr <hi>Ymroddiad</hi> (yr hwn ſydd o Dduw) ag felly fe ai cae<g ref="char:EOLhyphen"/>thiwyd hwynt yn ysbryd yr ew<g ref="char:EOLhyphen"/>yllys, yn y grôth, drwy chwant, yr hwn yn ddioed a gafodd Ar<g ref="char:EOLhyphen"/>glwyddiaeth
+<pb n="5" facs="tcp:174172:9"/>
+yn naturiaeth.</p>
+               <p n="11">11. Felly Luciffer a lynodd yn yr anian ddigllon danllyd, ar tân hwnw a ymddangoſodd yn yſ<g ref="char:EOLhyphen"/>bryd ei ewyllys of, drwy'r hwn y daeth y creadur yn ei ewyllys i fod yn elyn i gariad ag addfwyn<g ref="char:EOLhyphen"/>der Duw.</p>
+               <p n="12">12. Felly hefyd Adda a gippiwyd yn ddiattreg yn nerth y famog ddayarol (yr hon yw da a drwg, a grewyd allan o gariad a digo<g ref="char:EOLhyphen"/>faint Duw) ag a wnaed yn vn ſyl<g ref="char:EOLhyphen"/>wedd. Ag ar hyny y ddayarol anian a aeth yn Arglwyddes yn Adda; ag oddiy no y mae gwres ag oerni, cenfigen a digter, a phob malis a chroeſineb i Dduw yn ymddangos ag yn brenhiniaethu ynddo.</p>
+               <p n="13">13. Ond oni bai iddynt ddwyn goleuni 'r wybodaeth ir Hunan, ni buaſe mo ddrych dealldwriaeth y gwaelod a gwreiddyn y creadur (ſef ei
+<pb n="6" facs="tcp:174172:10"/>
+nerth mewn Hunan) wedi ym<g ref="char:EOLhyphen"/>ddangos nag ymagoryd, or hwn y codod dy chwantau ar dychymy<g ref="char:EOLhyphen"/>gion.</p>
+               <p n="14">14. Ni welwn fod y rhain yr aw<g ref="char:EOLhyphen"/>ron ymhob man yn peryglu plant golau Duw, yn gimmaint mai pan fo haul preſenoldeb mawr ſanct<g ref="char:EOLhyphen"/>eiddrwydd Duw yn diſcleirio (drwy yr hwn y mae 'r bywyd yn ymfawrygu) yna mae rheſwm yn i gweled ei hun ynddo (fel mewn drych) ag mae 'r ewyllys yn mynd er hyny ymlaen mewn Hunan, ſef yn ei chwilfa ei hunan, ag fe ſyn brofi y gwaelod canol or hwn y mae 'r goleuni yn tarddu, ag yn ymwthio (o hono i hunan) iddo.</p>
+               <p n="15">15. Oddiwrth hyn y mae 'r bal<g ref="char:EOLhyphen"/>chder ffiaidd ar Hunanſerch yn codi. Ag felly drwy ei reſwm ei hun (yr hwn nid yw ond drych y ddoethineb dragwyddol) mae fo yn tybied i fod ef yn fwy nag
+<pb n="7" facs="tcp:174172:10"/>
+ydiw, Ag yno beth bynnag a ddw<g ref="char:EOLhyphen"/>etto ei reſwm ef, mae fo yn credu mai ewyllys Duw ſydd yn i wneuthur ynddo, ag m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i proph<g ref="char:EOLhyphen"/>wyd yw, er nad ywetto ond ynddo ei hunan, yn mynd ymlaen yn ei ewyllys ei hunan, yn yr hwn y mae Fynnonhell natur yn ymgodi yn ddiſymwth, ag yn rhedeg i mewn iw chwant ffals ei hunan yn erbyn Duw, ag felly mae 'r enaid yn myned i mewn i feddwl yn dda am dano ei hunan.</p>
+               <p n="16">16. Ag yno mae 'r cythrael gwe<g ref="char:EOLhyphen"/>niheithus yn dyfod i mewn ir drws, ag yn chwalu gwaelod na<g ref="char:EOLhyphen"/>turiaeth ag yn lluſgo chwantan drwg i mewn, ag yn gwneuthur dyn fel meddwyn ynddo ei hu<g ref="char:EOLhyphen"/>nan, ag yn peri iddo gredu mai Duw ſydd yn i yrru ag yn i alw. A thrwy hyn mae 'r dechreuad da (yn yr hwn y tewynnodd (yn naturiaeth) y goleuni nefol) yn cael i am heithio, ag felly mae go<g ref="char:EOLhyphen"/>leuni
+<pb n="8" facs="tcp:174172:11"/>
+Duw yn ymadel oddiwrtho.</p>
+               <p n="17">17. Etto er hyny mae 'r goleuni naturiol (arallwladoc) yn parhau i ddiſgleirio yn y creadur. (Canys mae fo ei hunan yn i daflu ei hu<g ref="char:EOLhyphen"/>nan iddo) ag yn tybied er hyny mae fo yw 'r goleuni cyntaf oddi<g ref="char:EOLhyphen"/>wrth Dduw. Ond nid felly i mae.</p>
+               <p n="18">18. Ag ir gamdyb dda yma (yn<g ref="char:EOLhyphen"/>goleuni yr allan reſwm, mae dia<g ref="char:EOLhyphen"/>fol yn i fwrw i hun i nofio eilwaith (er darfod peri iddo unwaith y<g ref="char:EOLhyphen"/>madel yn y goleuni cyntaf yr hwn oedd nefol) mae fo yn dychwelyd ag yn dwyn gidag ef ei ſaith chwant drwg, fel y Dwedodd yr Arglwydd Jeſu.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Pennod 2.</head>
+               <p n="1">1. PAn el yr ysbryd aflan allan o ddyn, fe rodia drwy leoedd ſychion, gan geiſio gorphwyſdra heb gael dim, ag yno fe gymer atto ei Hunan ſaith ysbryd gwaeth
+<pb n="9" facs="tcp:174172:11"/>
+nag ef ei hun, ag a ddychwel iw dy cyntaf, ag mae fo yn i gael wedi i yſcubo ai drefnu, ag yno mae fo yn aros ynddo ag felly mae'n waeth ir dyn hwnw nag erioed or blaen.</p>
+               <p n="2">2. Y ty yma (yr hwn fel hyn a yſcubwyd ag a drefnwyd) iw go<g ref="char:EOLhyphen"/>leuni rheſwm dyn ei <hi>Hunan.</hi> Canys os dwg neb ei ddymuniad ai ewy<g ref="char:EOLhyphen"/>llys i Dduw, ag a fyn fynd ymlaen ag y mgadw rhag y bywyd drwg, gan chwantu cariad Duw, yna y ſerch nefol ai dengys ei hunan iddo, ai hwynebpryd hawddgar cyfeillgar, drwy 'r hwn y mae 'r goleuni yn cynneu hefyd yn yr enaid oddiallan.</p>
+               <p n="3">3. Canys lle i cynneuo goleuni Duw, yno i mae 'r cwbl yn ennyn ag yn golau ni all diawl aros yno, ond mae yn rhaid iddo ymadel. Ag yma mae fo yn chwilio drwy grôth naturiaeth y bywyd (ſef y gwaelod canolig) ond mae hwnw fel tir ſych gwan diffrwyth iddo.</p>
+               <p n="4">
+                  <pb n="10" facs="tcp:174172:12"/>4. Digofaint Duw (ſef canot natur) ſydd yn ei naturiaeth ei hun yn gwbl egwan, yn ſych, ag heb allel arglwyddiaethu yn yr anian digllon. Ond mae Satan yn chwilio drwy 'r lleoedd hyn am ddiws agored i fynd i mewn gida 'r chwant, ag felly yn nithio yr enaid fel y gallo ymwychu ynddo ei hun.</p>
+               <p n="5">5. Ag yn awr Os ys bryd ewy<g ref="char:EOLhyphen"/>llys y creadur ai teifl i hunan gida llewyrch rheſwm ir gwaelod, ſef i Hunan, ag a eiff i mewn iw falchder, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no mae fo yn myned allan eilwaith oddiwrth oleuni Duw</p>
+               <p n="6">6. Ag yno mae diafol yn cael adwy agored i fynd i mewn, ag yn cael ty trefnus i aros ynddo, a hwnw iw goleuni rheſwm. Ag yna mae fo yn cymeryd atto ſaith agwedd anian bywyd yn Hunan, ſef y gwenhieithwyr ſydd wedi diangc oddiw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Dduw i Hunan.</p>
+               <p n="7">
+                  <pb n="11" facs="tcp:174172:12"/>7. Ag yna mae fo yn mynd i mewn ag yn plannu ei ddeiſyfiad yn chwant Hunan ar drwgddy-chmygion. Yn y rhai y mae ysbryd yr ewyllys yn i ganfod ei Hunan yn ffurfiadau naturiaethau bywyd yn y goleuni oddiallan ag yno mae 'r dyn hwnw yn ſuddo iddo i hunan, fel ped fai fo yn feddw: ag yno mae 'r Ser yn cymeryd gafel arno, ag yn dwyn ei ſergyn<g ref="char:EOLhyphen"/>hulliad nerthol i mewn iddo, fel y ceiſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai ryfeddodau Duw yn ei myſg hwynt, fel yn hyny y gallent hwy i dingos ei hunain.</p>
+               <p n="8">8. Canys mae 'r holl greaduri<g ref="char:EOLhyphen"/>aid yn tuchan ag yn hiraethu am Dduw. Ag er na all y Sê ganfod yſbryd Duw, etto gwell ganddynt gael <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y golan i fod yn llawen yn<g ref="char:EOLhyphen"/>ddo, na thy wedi i gau yn yr hwn ni allant gael llonydd.</p>
+               <p n="9">9. Yna mae r cyfry ddyn yn mynd ymlaen fel ped fai fo wedi meddwi vngoleuni y rheſwm o<g ref="char:EOLhyphen"/>ddiallan
+<pb n="12" facs="tcp:174172:13"/>
+(yr hwn a elwir y Ser) ag mae fo yn canfod pethau mawrion rhyfeddol, ag yn cael ei arwain ynddynt.</p>
+               <p n="10">10. Ag yno yn y fan mae Diafol yn ſpio am ddrws agored iddo i ddyfod i mewn, fel y gallo fo en<g ref="char:EOLhyphen"/>nyn troell ganol y bywyd i beri i ysbryd yr ewyllys ymgodi i ſynu ar eſcyll balchder, rhyfyg a chy<g ref="char:EOLhyphen"/>pyddra or hyn y mae traha yn ym<g ref="char:EOLhyphen"/>chwyddo, ag ewyllys y rheſwm yn ewyllyſio cael ei ganmol. Canys tybied y mae iddo gael ſwm pob dedwyddwch pan enillodd oleuni rheſwm, ag y medr ef ddirnad y ty cavedig(ſef y dirgelwch) yr hwn er hyny a egyr Duw yn hawdd.</p>
+               <p n="11">11. Yr awron mae fo yn tybied, fod y parch yn perthyn iddo ef; am fod ganddo ddealldwriaeth rheſwm. Ond nid iw fo yn yſtyrio fod diafol yn chwarae ag yn chwerthin gidai chwant ef yn ei ſaith ffurfiadiau 'r bywyd (troell
+<pb n="13" facs="tcp:174172:13"/>
+ganol naturiaeth) na chwaith pa amryfuſeddau ffiaidd y mae fo yn i oſod i fynu.</p>
+               <p n="12">12. Oddiwrth y dealldwriaeth yma y daeth allan y Babel ffals yn eglwyſydd cred ar y ddayar, llei mae gwyr yn rheoli ag yn dy<g ref="char:EOLhyphen"/>ſcu yn ol troyadau a chynffonnau rheſwm, ag yn goſod i fynu (fel aeres brydferth ar orſeddfaingc) blentyn yr hwn ſydd feddw yn ei falchder ai drachwant.</p>
+               <p n="13">13. Ond mae diafol wedi myned i mewn i ſaith ffurfiadau troellga<g ref="char:EOLhyphen"/>nol y bywyd ſef iw reſwm ei hun, ag mae fo yn waſtad yn bwrw i mewn i chwant i hon ſydd wedi i harddu, yr hwn y mae 'r ſêr yn i dderbyn. Efe iw ei march hi ar yr hwn y mae hi yn marchogaeth yn hoyw yngalluoedd ei heinioes, fel y gwelir yn y D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tcuddiad.</p>
+               <p n="14">14. Fel hyn hi gymerodd atti ryw gyſcod o lewyrch gwir ſan<g ref="char:EOLhyphen"/>cteiddrwydd, ſef goleuni rheſwm,
+<pb n="14" facs="tcp:174172:14"/>
+gan feddwl mai hi ei hunan iw'r plentyn glanaf yn y ty ond mae gan ddiafol letty yn ei chanol hi.</p>
+               <p n="14">14. Ag dyma fel y mae gida 'r holl eneidieu a oleuwyd unwaith drwy Dduw, a gynt wedi hyny yn mynd allan oddiwrth y gwir oſty<g ref="char:EOLhyphen"/>ngedig Ymroddiad, gan i diddyfnu ei hunain oddiwrth bûr laeth ei mam, ſef oddiwrth wir oſtyngei<g ref="char:EOLhyphen"/>ddrwydd.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>Pennod 3.</head>
+               <p n="1">1. ONd rheſwm a ettyb gan ddwedyd. Onid jawn i ddyn gyrhaedd goleuni Duw a goleuni y naturiaeth ar rheſwm oddiallan, fel y gallo fo drefnu ei fywvd yn ddoeth, fel y dywaid yr yſcythur.</p>
+               <p n="2">2. Gwir j<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn yw, felly i mae, Nid oes dim mor fuddiol i ddyn, na dim gwell a all ddigwydd iddo.
+<pb n="15" facs="tcp:174172:14"/>
+Ag ymhellach dyma dryſor uwch<g ref="char:EOLhyphen"/>law pob tryſor dayarol i ddyn gael golwg ar Dduw, ag ar amſer, oblegid dyma lygad amſer a thra<g ref="char:EOLhyphen"/>gwyddoldeb.</p>
+               <p n="3">3. Ond dal ſulw pa fodd y dylit ti ei harfer hi, yn gyntaf mae go<g ref="char:EOLhyphen"/>leuni Duw yn ymddangos yn yr enaid ag yn llewyrchu fel golau canwyll, ag yn ennyn goleuni rhe<g ref="char:EOLhyphen"/>ſwm yn ddiattreg. Etto nid iw fe yn hollawl yn ymroi i reſwm i fod dan Arglwyddiaeth y dyn oddi<g ref="char:EOLhyphen"/>allan, Nag ydiw. Mae 'r dyn o<g ref="char:EOLhyphen"/>ddiallan yn i ganfod ei hun yn y goleuni yma, drwy 'r llwyrch (fel y gwel dyn ei gyſcod mewn drych)ag yn y fan mae fo yn dyſcu ei adnabod ei hun, yr hun ſydd dda a buddiol iddo.</p>
+               <p n="4">4. A phan wnelo fo felly, Rhe<g ref="char:EOLhyphen"/>ſwm (yr hwn iw 'r bywyd crea<g ref="char:EOLhyphen"/>duriaiadd) ni all lai nai olygu ei hunan yn Hunan ycreadur, a thrwy ewyllys y deiſyfiad mynd i mewn
+<pb n="16" facs="tcp:174172:15"/>
+ir droell ganol, iw geiſio ei hun, yr hyn os gwna, mae fo yn i dorri ei hun oddiwrth Sylwedd Duw (yr hwn ſydd yn cydgodi gida goleuni Duw or hwn y dyle 'r enaid fwytta ag ymfodloni yn ſiriol) ond mae fo yn bwytta or allanus ſylwedd a goleuni, ag wrth hyny mae fo yn tynnu y gwenwyn iddo ei hun eil<g ref="char:EOLhyphen"/>waith.</p>
+               <p n="5">5. Fe ddyle ewyllys y creadur ſuddo iddo ei hunan ai holl reſwm ai ddeiſyſiad, gan i gyfrif ei hun yn blentyn anheilwng, nad iw (yn y lleiaf) yn deilwng or gras mawr yma, ag ni ddyle fo falchgymryd dim gwybodaeth na deall iddo ei hunan, na cheiſio gan Dduw ddim ſynwyr yn yr Hunan creaduriaidd.</p>
+               <p n="6">6. Ond fe ddyle yn ddiragrith ag yn wirion i ſuddo ei hunan i mewn i ras a chariad Duw yn<g ref="char:EOLhyphen"/>griſt Jeſu, a chwantu bod megis yn farw iddo ei Hunan, ag iw reſwm i hunan mewn pethau nefol, (yn y
+<pb n="17" facs="tcp:174172:15"/>
+bywyd uchel) ai gwbl roi ei Hu<g ref="char:EOLhyphen"/>nan i fywyd Duw mewn cariad, fel y gwnelo Duw ag ef y peth a fynno, yn y modd y mynno, fel ai ddodrefnyn ei hun.</p>
+               <p n="7">7. Ni ddyle ei reſwm ef ei hunan chwilio am ddim mewn pethau nefol nag chwaith yngwreiddyn pethau naturiol, nag ewyllyſio dim ond gras Duw ynghriſt: Ag fel y mae plentyn yn gwir ſychedu am fronnau 'r fam felly mae 'n rhaid iw newyn yn waſtadol fynd i mewn i gariad Duw. ag nid er dim gym<g ref="char:EOLhyphen"/>ryd i dorri oddiwrth y newyn y ma pan fo 'r allanol rheſwm yn ym<g ref="char:EOLhyphen"/>ffroſtio yn y goleuni, gan ddwedyd mae 'r gwir blentyn genifi.</p>
+               <p n="8">8. Ond yna mae 'n rhaid i ewy<g ref="char:EOLhyphen"/>llys y dymuniad i blygu i hunan ir ddayar, ai ddwyn ei hun ir goſty<g ref="char:EOLhyphen"/>ngeiddrwydd dyfnaf ar anneall<g ref="char:EOLhyphen"/>wch gwirionaf, a dwedyd, Ynfyd wyti, nid oes dim genit ond gras Duw. Rhaid i ti ymlechu yn hwnw
+<pb n="18" facs="tcp:174172:16"/>
+mewn mawr oſtyngeiddrwydd;a bod fel dim ynot dy hun, heb nath adnabod nath garu dy hun. Pob peth ar ſydd eiddot neu ynot, ſydd raid iddo i gyfrif ei hun fel dim ond dodrefnyn Duw.</p>
+               <p n="9">9. Ag yna rhaid iw dwyn y dy<g ref="char:EOLhyphen"/>muniad yn vnig i drugaredd Duw, a mynd allan oddiwrth dy wybo<g ref="char:EOLhyphen"/>daeth ath ewyllys dy hun, ai gyfrif ef fel dim, heb byth ond hyny groe<g ref="char:EOLhyphen"/>ſafu ewyllys i fyned i mewn iddo eilwaith.</p>
+               <p n="10">10. Er cynted y gwneler hyn mae 'r ewyllys naturiol yn mynd yn wan, Ag yno ni all diafol yſcog mono felly mwyach drwy chwan<g ref="char:EOLhyphen"/>tau drwg, Canys lleoedd ei orphw<g ref="char:EOLhyphen"/>yſtra a wnaed yn weiniaid ag yn ſychion, ag yno yr ysbryd ſanctaidd oddiwrth Dduw ſydd yn cymeryd meddiant ar ffurfiadau 'r bywyd ag yn peri iw Arglwy ddiaeth orch<g ref="char:EOLhyphen"/>fygu.</p>
+               <p n="11">11. Ennyn a wna ffurfiadau 'r
+<pb n="19" facs="tcp:174172:16"/>
+bywyd drwy fflamiau ei gariad. Ag yno mae 'r gelfyddyd uchel, a gwy<g ref="char:EOLhyphen"/>bodaeth gwreiddyn pob peth yn codi i fnu yn ol Sér gynhulliad y creadur oddifewn ag oddiallan mewn tan ſych chwiliedig, mewn difyrrwch mawr, gan chwennych ymſuddo ir goleuni hwnw ai gy<g ref="char:EOLhyphen"/>frif ei hunan yn ddim, ag yn anhei<g ref="char:EOLhyphen"/>lwng o hono.</p>
+               <p n="12">12. Ag fel hyn y mae ei ewyllys ef yn treiddio i mewn ir Dim hwnw (yn yr hwn y mae Duw yn crêu) ag yn gwneuthur a fynno ynddo. Yna mae ysbryd Duw yn tarddu allan drwy ddymuniad yr Ymroddiad goſtyngedig. Ag felly mae 'r Hunan naturiol yn ddiattreg yn dilyn ysbryd Duw mewn dy<g ref="char:EOLhyphen"/>chryn a llawenydd goſtyngeiddr<g ref="char:EOLhyphen"/>wydd, ag felly mae fo yn canfod beth ſydd mewn amſer ag hefyd ynhragwyddoldeb, am fod pob peth yn breſernnol gidag ef.</p>
+               <p n="13">13. Pan eſcynno ysbryd Duw i
+<pb n="20" facs="tcp:174172:17"/>
+fynu fel tânllwyth a fflam o gariad, yno mae ysbryd yr enaid yn deſcyn ag yn dwedyd. Arglwydd, ith enw di y bo 'r gogoniant ag nid i mi. Rwyti yn abli gymeryd rhinwedd, nerth, cryfder, doethineb a gwybo<g ref="char:EOLhyphen"/>daeth. Gwna di a fynnech. Ni allai wneuthur dim. Ni wn i ddim. Nid af i vnlle ond llei 'r arweiniech di fi (fel dy erfyn). Gwna am fi ag ynofi y peth a fynnech.</p>
+               <p n="14">14. Yn y fath ymroddiad hollawliſel a hwn y mae gwreichionen y nerth nefol yn deſcyn i ganol ffurfiadau 'r bywyd (fel gwreichionen ir ulw) ag yn i ennyn (ſef nân yr enaid) yr hwn a aeth fel glôan du yn Adda.</p>
+               <p n="15">15. A phan ennyno llewyrch Duw ei hunan ynddo, mae 'n rhaid ir creadur fynd ymlaen fel erfyn ysbryd Duw, a llefaru y peth a baro ysbryd Duw. Ag yno nid iw fo mwy yn i eiddo ei hun. Ond do<g ref="char:EOLhyphen"/>drefnyn Duw ydiw.</p>
+               <p n="16">16. Ond rhaid i ewyllys yr
+<pb n="21" facs="tcp:174172:17"/>
+enaid (a hyny yn ddibaid) yn y cerbyd tanllyd yma i ſuddo ei hu<g ref="char:EOLhyphen"/>nan i ddim, ſef ir goſtyngeiddr<g ref="char:EOLhyphen"/>wydd iſaf yngolwg Duw. Oblegid er cynted ag yr elo ewyllys yr enaid ym mlaen (yn y meſur lleiaf) yn ei ddychymygion ai chwiliadau ei hun, mae Luciffer yn cymryd gafael arno yngwaelod ffurfiadau 'r bywyd, ag yn i nithio (megis mewn gogr) hyd onid elo iddo ei Hunan.</p>
+               <p n="17">17. Rhaid iddo gan hyny barhau yn ofalus wrth yr ymroddiad iſel, fel y ffynnon wrth ei ffynnonell, a ſugno ag yfed o ffynnon Duw, ag nid ymadel ai ffyrdd mewn dim.</p>
+               <p n="18">18. Canys er cynted ag y bwyttao, ag y profo 'r enaid Hunan, ag o oleuni rheſwm oddiallan, fe a ym<g ref="char:EOLhyphen"/>laen yn ei opiniwn ei hunan, Ag yno ei weithredoedd (y rhai y mae ef yn i dwyn allan fel ped faent nefol) ydynt yn tarddu yn vnig oddiwrth y ſêr gynhulliad, y rhai
+<pb n="22" facs="tcp:174172:18"/>
+yn ddiarbod a gymrant afel ar yr enaid; ag ai ſychant, ag yna fe â ym<g ref="char:EOLhyphen"/>laen mewn amryfuſeddau nes iddo eilwaith ymroi i Dduw, a chydna<g ref="char:EOLhyphen"/>bod mai plentyn iw wedi i ddifw<g ref="char:EOLhyphen"/>yno.</p>
+               <p n="19">19. Ag felly wrth wrthwynebu rheſſwm mae fo yn ymglywed eil<g ref="char:EOLhyphen"/>waith a chariad Duw, yr hyn ſydd anhaws yr awron nag ar y cyntaf, Canys mae Diafol yn dwyn i mewn amheuon cryfion, ni âd ef yn hawdd moi ffau ai gaſtell.</p>
+               <p n="20">20. Fe ellir gweled hyn yn eglur yn ſeinctiau Duw er dechreuad y byd, ddarfod i lawer, a arweinid gan yſbryd Duw, ymadel yn fynych odd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yr ymroddiad, a mynd ir Hunan, ſef iw rheſwm ai hewyllys, yn y rhai y taflodd Satan nhw i bechodau ag i ddigofaint Duw: fel y gwelir yn <hi>Nafydd</hi> ag yn <hi>Solomon</hi> hefyd yn y Patrieirch ar Prophwydi ar Apoſtolion, y rhai yn fynych a fawr amryfuſeddaſont pan yma<g ref="char:EOLhyphen"/>dawſont
+<pb n="23" facs="tcp:174172:18"/>
+ar ymroddiad wrth ddy<g ref="char:EOLhyphen"/>fod iddynt ei hunain, ſef iw rheſwm ai trachwant.</p>
+               <p n="21">21. Am hyny anghenrheidiol yw i blant Duw wybod pa fodd y mae iddynt y mddwyn pan fynnont ddyſcu ffordd Duw. Rhaid iddynt guro i lawr thaflu ymaith ie ei meddyliau ei hunain, a bod heb chwennych dim nag ewyllyſio dyſcu dim, oni chlywant ei hunain yn y gwir ymroddiad, fel y gallo yſbryd Duw arwain a dyſcu yſbryd dyn, a bod ir ewyllys dynol(yr hwn ſyn briod ag ef ei hun) gael i gwbl dorri y maeth oddiwrth ei chwant ei hun ai roddi i Dduw.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Pennod 4.</head>
+               <p n="1">1. PEryglus iawn iw 'r holl yſpi<g ref="char:EOLhyphen"/>enna cnawdol yn rhyfeddo<g ref="char:EOLhyphen"/>dau Duw, canys fe all yſbryd yr ewyllys gael i garcharu yn fuan, wrth hyny oni bydd i yſbryd yr
+<pb n="24" facs="tcp:174172:19"/>
+ewyllys fyned a rhodio ar ol yſbryd Duw, ag felly mae ganddo allu yn yr iſel ymroddiad i edrych ar withiau Duw.</p>
+               <p n="2">2. Nid wyfi yn dwedyd na ddyle ddyn chwilio a dyſcu mewn cel<g ref="char:EOLhyphen"/>fyddydau a diſceidiaeth naturiol. Nid felly, canys buddiol iw iddo, ond nid oes i ddyn ddechrau drwy ei reſwm ei hunan.</p>
+               <p n="3">3. Fe ddyle ddyn nid yn vnig reoli ei fywyd drwy oleuni y rhe<g ref="char:EOLhyphen"/>ſwm oddiallan (yr hwn ſydd dda ynddo ei hun) ond rhaid iddo ſuddo gida 'r golau hwnw ir go<g ref="char:EOLhyphen"/>ſtyngeiddrwydd iſaf o flaen Duw, a goſod yſbryd, ag ewyllys Duw, yn flaenaf wrth ei holl chwilio, fel y gallo goleuni rheſwm weled drwy oleuni Duw.</p>
+               <p n="4">4. Ag er bod rheſwm yn gwybod llawer, nid oes iddi hi ymgymmy<g ref="char:EOLhyphen"/>raeth atti ei hun, fel ped fai yn ei meddiant ei hun, ond rhoi 'r gogo<g ref="char:EOLhyphen"/>niant i Dduw, ir hwn yn vnig y
+<pb n="25" facs="tcp:174172:19"/>
+mae doethineb a gwybodaeth yn perthyn.</p>
+               <p n="5">5. Canys pa mwyaf y ſuddo rhe<g ref="char:EOLhyphen"/>ſwm ei hunan i lawr i oſtyngei ddrwydd gwirion yngolwg Duw, a pha anheilyngaf y cyfrifo ei hun yn ei wydd ef, cyntaf y bydd ef marw oddiwrth chwant iddo ei hunan, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mwyaf y treiddia yſbryd Duw trwyddo, ag ai dwg ir wybodaet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vchaf fel y gallo ganfod mowrion wrthiau Duw.</p>
+               <p n="6">6. Canys mae yſbryd Duw yn gweithio yn vnig yn y goſtyngei<g ref="char:EOLhyphen"/>ddrwydd ymroddgar, ſef yn yr hyn nad yw yn i geiſio nag yn ei chwen<g ref="char:EOLhyphen"/>nych ei hunan.</p>
+               <p n="7">7. Mae yſbryd Duw yn cymryd gafael ar bob peth ar ſydd yn ewyl<g ref="char:EOLhyphen"/>lyſio bod yn wirion, ag yn iſel oi flaen ef, ag yn i ddwyn ef allan yn ei ryfeddodau. Mae ganddo ddi<g ref="char:EOLhyphen"/>fyrrwch mawr yn y rheini yn vnig ſyn ofni ag yn plygu gar ei fron ef.</p>
+               <p n="8">8. Canys ni chreawdd Daw mo<g ref="char:EOLhyphen"/>nom
+<pb n="26" facs="tcp:174172:20"/>
+ni er ein mwyn ein hunain yn vnig, ond i fod yn beiriannau ei wr<g ref="char:EOLhyphen"/>thiau ef, drwy 'r rhai y mae fo yn chwennych datcuddio i ryfeddo<g ref="char:EOLhyphen"/>dau, Mae 'r ewyllys ymroddgar yn ymddiried i Dduw, ag yn edrych am bob daioni oddiwrtho. Ond yr Hunan ewyllys ſydd yn i reoli ei hunan, am i fod wedi i dorri o<g ref="char:EOLhyphen"/>ddiwrth Dduw</p>
+               <p n="9">9. Beth bynnag ſydd Hunan e<g ref="char:EOLhyphen"/>wyllys, pechod iw, ag mae fo yn erbyn Duw, am i fod wedi mynd allan or drefn (yn yr hon y creawdd Duw ef) i mewn i anufydddod, gan chwennych bod yn feiſtr ag yn Arglwydd iddo ei hun.</p>
+               <p n="10">10. Pan fo marw ei ewyllys ef ei hun oddiwrth ei hun, mae fo yn rhydd oddiwrth bechod, canys nid iw fo yn chwennych dim ond yr hyn y mae Duw yn i geiſio oddi<g ref="char:EOLhyphen"/>wrth ei greadur. Ei awydd ef iw gwneuthur y peth er mwyn yr hwn y gwnaeth Duw ef, ar hyn a
+<pb n="27" facs="tcp:174172:20"/>
+wna Duw drwyddo, ag er i fod (ag yn rhaid iddo fod) yn gweithio, etto nid iw ef ond erfyn y gwaith, drwy 'r hwn y mae Duw yn gwne<g ref="char:EOLhyphen"/>uthur y peth a fynno.</p>
+               <p n="11">11. Canys dyma 'r wir ffydd mewn dyn, ſef marw iddo ei hu<g ref="char:EOLhyphen"/>nan, (oddiwrth ei feddwl-chwant ei Hunan) ag yn ei holl ddechreua<g ref="char:EOLhyphen"/>dau, ai fwriadau, ddw yn ei ewyllys i ewyllys Duw, fel na chymero glod iddo ei hunan mewn dim ar a wnelo ond i gyfrif ei hun (ymhob peth a wnelo fel gwas i Dduw, gan feddwl mai dros Dduw y mae pob peth y mae fo yn mynd yn i gylch iw wneuthur.</p>
+               <p n="12">12. Oblegid yn y meddylfryd hwnw mae ysbryd Duw yn i ar<g ref="char:EOLhyphen"/>wain ef ir gwir vniondeb ar ffydd<g ref="char:EOLhyphen"/>londeb tuag at ei Gymydog. Canys fel hyn y mae fo yn meddwl wrtho ei hun. Rwi 'n gwneuthur fyng<g ref="char:EOLhyphen"/>waith nid droſof fy hun ond dros Dduw yr hwn am galwodd ag am
+<pb n="28" facs="tcp:174172:21"/>
+hordeiniodd i iw wneuthur, fel gwas yn ei winllan.</p>
+               <p n="13">13. Mae fo yn cluſtfeino yn wa<g ref="char:EOLhyphen"/>ſtad am lais ei Arglwydd yr hwn (or tu fewn iddo) ſydd yn gor<g ref="char:EOLhyphen"/>chymyn iddo beth ſydd iddo iw wneuthur. Mae 'r Arglwydd yn llefaru wrtho ag yn peri iddo i wneuthur.</p>
+               <p n="14">14. Ond mae Hunan yn gwneu<g ref="char:EOLhyphen"/>thur y peth y mae y rheſwm oddi allan oddi wrth y Sêr yn i orchy<g ref="char:EOLhyphen"/>myn, ag ir rheſwm yma mae diafol yn ymluſgo ag yn ehedeg i mewn gida 'r ewyllys.</p>
+               <p n="15">15. Beth bynnag y mae Hunan yn i wneuthur mae hyny heb ewyl<g ref="char:EOLhyphen"/>lys Duw ynddo, ag fe ai gweith<g ref="char:EOLhyphen"/>redir yn vnig yn y ffanſi, fel y gallo digofaint Duw gymeryd i ddifyr<g ref="char:EOLhyphen"/>rwch ynddo.</p>
+               <p n="16">16. Ni all vn gwaith ar a wneler heb ewyllys Duw gyrhaeddyd teyrnas Dduw. Nid iw fo i gid ond rhyw ddelw anfuddiol, ym mawr
+<pb n="29" facs="tcp:174172:21"/>
+ofer lafur dynion. Canys nid oes dim yn bodloni Duw ond yr hyn y mae fo yn i wneuthur ei hunan, drwy 'r ewyllys (fel drwy erfyn)</p>
+               <p n="17">17. Canys nid oes ond vn vnig Dduw yn Sylwedd Sylweddau, a phob peth ar ſydd yn cydweithio gidag ef yn y ſylwedd hwnw ſdd vn yſbryd ag ef. Ond y peth ſydd yn gweithio ynddo ei hunan yn ei ewyllys ei Hunan ſydd ynddo ei hun or tu allan i reolaeth Duw. Gwir iw i fod ef yn y rheolaeth honno yn yr hon y mae Duw yn rheoli pob bywyd, ond nid yn y rheolaeth ſanctaidd nefol ynddo ei Hunan, ond yn Arglwyddiaeth natur, drwy 'r hon y mae fo yn lly<g ref="char:EOLhyphen"/>wodraethu da a drwg. Nid Du<g ref="char:EOLhyphen"/>wiol dim ond ſydd yn rhodio ag yn gweithio yn ewyllys Duw.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="30" facs="tcp:174172:22"/>
+               <head>Pennod 5.</head>
+               <p n="1">1. MAe Chriſt yn dywedyd. Pob planhigyn ar na phlan<g ref="char:EOLhyphen"/>nodd fy nhad nefol a ddiwreiddir allan, ag a loſcir yn y tân. Holl wei<g ref="char:EOLhyphen"/>thredoedd dyn y rhai a wneuthur<g ref="char:EOLhyphen"/>wyd heb ewyllys Duw a loſcir yn y tân olaf oddiwrth Dduw, ag fe ai gorchmvnnir i ddigofaint Duw, ſef i bwll y Tywyllwch i gymeryd ei bleſer ynddynt.</p>
+               <p n="2">2. Canys mae Chriſt yn dywedyd, y Sawl nad iw gidam fi ſydd yn fy erbyn i, ar ſawl nad iw yn caſglu gidam fi ſyn gwaſcaru. Pwy byn<g ref="char:EOLhyphen"/>nag a wnelo beth, heb i wneuthur mewn ewyllys ymroddgar, drwy hyder yn Nuw, nid iw hwnw ond anrheithio a gwaſcaru, nid iw ef gymmeradwy gida Duw. Nid oes dim ai bodlona ond yr hyn a ewyl<g ref="char:EOLhyphen"/>lyſio ef ei hunan drwy ei yſbryd, ag a wnelo fe ei hunan drwy ei erfyn.</p>
+               <p n="3">
+                  <pb n="31" facs="tcp:174172:22"/>3. Am hyny beth bynnag a wne<g ref="char:EOLhyphen"/>ler drwy <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſy miadau Hunan dynol (ymmaterion ewyllys y Goruchaf) nid iw 'r cwbl ond ffûg, ag megis henchwedl ym Mabel, Nid iw fo ond gwaith y Sêr ar byd oddiallan. Ni chydnebydd Duw ef fel ei waith ei hunan. Nid iw oll ond chwaryddiaeth troell ymdrechgar naturiaeth, yn yr hon y mae da a drwg yn ymdrech ai gilydd, yr hyn a adeilado 'r naill, mae 'r llall yn i ddiniſtrio.</p>
+               <p n="4">4. Fel dyma fawr drueni yr holl ofer lafur ar lludded, Ag mae hyn i gid yn perthyn i farn Duw i der<g ref="char:EOLhyphen"/>fynu 'r ymryſſon. Pwy bynnag gan hyny ſydd yn gwneuthur llawer yn y drafferth grefyddol yma, nid iw fo yn gwneuthur dim ond i farn Duw. Am nad oes dim o hono yn berffaith nag yn barhaus, Rhaid iw i ddidoli ai roi or neilldu yn y llygredigaeth.</p>
+               <p n="5">5. Canys yr hyn a wneler yn n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:174172:23"/>
+gofaint Duw, a dderbynir ganddo eilwaith, ag a gedwir yn nirgelwch ei awchlym chwant ef tan ddydd y farn, lle y ceiff da a drwg i didoli oddiwrth i gilydd.</p>
+               <p n="6">6. Ond os dyn a drŷ ag a eiff allan o hono ei hun, ag i mewn i ewyllys Duw, yna y caiff y daioni ynddo ei hun a wnaeth ef i rydd<g ref="char:EOLhyphen"/>hau oddiwrth y drwg a wnaeth.</p>
+               <p n="7">7. Canys mae Eſay yn dwedyd. Er bod eich pechodau chwi cyn goched ar ſcarlad (os trowch chwi ag edifarhau nhw fyddant cyn wynned ar eira) canys fe a lyngcir y drwg yn nigofaint Duw i farwo<g ref="char:EOLhyphen"/>laeth, ar hyn ſydd dda a ddaw allan fel planhigyn allan or ddayar ar anialwch.</p>
+               <p n="8">8. Pwy bynnag a fwriado wneu<g ref="char:EOLhyphen"/>thur dim ar ſydd dda a pherffaith, yn yr hyn y mae fo yn gobeithio llawenhau yndragwyddol iwfwyn<g ref="char:EOLhyphen"/>hau, ymadawed ag ef ei hun, ſef oddiwrth ei ddeiſyfiad, ag aed i
+<pb n="33" facs="tcp:174172:23"/>
+mewn ir ymroddiad, i ewyllys Duw, a gweithied gida Duw.</p>
+               <p n="9">9. Ag er i chwant dayarol Hunan drwy 'r cnawd ar gwaed lynu wrtho ef, er hyny os gwrthyd ewyllys yr enaid dderbyn y chwant i mewn iddo, ni ddichon Hunan wneuthur dim. Canys mae 'r ewyllys ym<g ref="char:EOLhyphen"/>roddgar yn ddibaid yn diniſtrio ſylwedd yr hunan eilwaith, fel na all digofaint Duw moi gyrhaedd, Ag os cyrhaedd ef weithiau (fel y gall y peth ddigwydd) er hyny mae 'r ewyllys ſydd wedi ymroi i Dduw yn i orchfygu drwy ei nerth ag yn gwiſco cynglwyſt buddygol<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth yn y rhyfeddodau i allel eti<g ref="char:EOLhyphen"/>feddu y mabwyſiad.</p>
+               <p n="10">10. Am hyny nid iw dda dwedyd na gwneuthur dim pan fo rheſwm wedi ennyn yn chwant Hunan canys y pryd hwnw mae 'r ewyllys yn gweithio yn nigofaint Duw, a thrwy hyny fe gaiff dyn golled. Am fod yn dwyn ei waith ef i ddi<g ref="char:EOLhyphen"/>gofaint
+<pb n="34" facs="tcp:174172:24"/>
+Duw ag yn i gadw ef yno erbyn dydd mawr barn Duw.</p>
+               <p n="11">11. Pob drwg chwant (drwy 'r hwn y mae dyn yn cyfrwysfeddwl am gaſglu llawer or byd iddo ei Hunan oddiar ei gymydog iw ni<g ref="char:EOLhyphen"/>weidio) a gymerir ag a gedwir yn nigofaint Duw iw farn, yn yr hon yr amlygir pob peth, a phob nerth yſcogiad a ſylwedd yn y da ar drwg a oſodir o flaen pawb yn nir<g ref="char:EOLhyphen"/>gelwch y datcuddiad.</p>
+               <p n="12">12. Pob drwgweithred fwriadol a berthyn ir farn, ond os trŷ 'r pe<g ref="char:EOLhyphen"/>chadur, mae fo yn diango allan o honynt, ai weithredoedd hyny a berthynant ir tân.</p>
+               <p n="13">13. Pob peth ſydd rhaid i ham<g ref="char:EOLhyphen"/>lygu yn y diwedd, canys er mwyn hyny y dygodd Duw ei nerth gweithgar i fod yn ſylweddol, fel <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>amlygid cariad a digofaint Duw <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od yn ddelw oi wrthiau rhyfe<g ref="char:EOLhyphen"/>ddodus iw ogoniant.</p>
+               <p n="14">14. A rhaid i bob creadur wybod
+<pb n="35" facs="tcp:174172:24"/>
+fod yn rhaid iddo barhau yn y cy<g ref="char:EOLhyphen"/>flwr yn yr hwn y crewyd ef, ag onid e mai fo yn rhedeg allan i groes ewyllys, ag ir elyniaeth yn erbyn ewyllys Duw, yn i ddwyn i hunan i boen a thoſtedd.</p>
+               <p n="15">15. Canys y creadur yr hwn a grewyd or tywyllwch, ſydd yn byw yn y tywyllwch heb wewyr, fel nad oes ar y pryf gwenwynllyd boen yn ei wenwyn (y gwenwyn iw ei fywyd) a phe colle fe i wen<g ref="char:EOLhyphen"/>wyn, a chael rhyw beth da yn i le ef (iw amlygu yn ei ſylwedd ef) fe fyddai hyn yn boen ag yn angau iddo. Ag felly hefyd y mae 'r drwg yn boen ag yn angau ir da.</p>
+               <p n="16">16. Fe grewyd Dyn o Baradwys, ag erddi ag ynddi, o gariad Duw, ag erddo ag ynddo. Ond os efe ai dwg ei Hunan ir digllonedd (yr hwn ſydd fel poen wenwynllyd ag angau) yno mae 'r croesfywyd yn boen ag yn gyſtudd iddo.</p>
+               <p n="17">17. Pe creaſid diafol allan or
+<pb n="36" facs="tcp:174172:25"/>
+grôth ddigofus er mwyn vffern ag ynddi, heb iddo gael y ſylwedd nefol, ni buaſe arno ef boen yn vffern. Ond yn gimaint ai wneu<g ref="char:EOLhyphen"/>thur ef yn y nef ag erddi, etto fe gynhyrfodd ynddo ei hun gyneddf ag anian y tywyllwch, ag ai dygodd ei hun yn hollawl ir tywyllwch.</p>
+               <p n="18">18. Am hyny mae 'r goleuni yr awron yn boenus gurfa iddo, ſef yn dragwyddol anobaith o ras Duw, mewn gelyniaeth ddiddi<g ref="char:EOLhyphen"/>wedd, gan na all Duw i aros ef ynddo ei hun, ond fe ai chwdodd ef allan.</p>
+               <p n="19">19. Ag am hyny mae diafol yn gvnddeiriog ag wedi digio yn er<g ref="char:EOLhyphen"/>byn ei farn ei hun (o ſylwedd yr hon y caſodd ef ei ddechreuad) ſef y naturiaeth dragwyddol, yr hon ſydd yn i garcharu fo yn ei le ei hun (fel yſbryd wedi cwympo a thynnu yn ol) ag yn i ddifyrru ei hun vnddo drwy ei chyneddf an<g ref="char:EOLhyphen"/>gerddol ddigllon.</p>
+               <p n="20">
+                  <pb n="37" facs="tcp:174172:25"/>20. A chan na fynnai fo helpu ymlaen ddifyrrwch llawenydd Duw, am hyny rhaid iddo fo 'r awren wneuthur yn y gwrthwy<g ref="char:EOLhyphen"/>neb, a bod yn elyn yn erbyn daioni.</p>
+               <p n="21">21. Canys o Dduw ag ynddo fo mae pob peth, Tywyllwch a go<g ref="char:EOLhyphen"/>leuni, cariad a digofaint, Tân a golau: ond mae fo yn i alw ei hunan yn Dduw, yn vnig fel y mae fo yn oleuni yn ei gariad.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>Pennod 6.</head>
+               <p n="1">1. MAe croeſineb tragwyddol rhwng goleuni a thywyl<g ref="char:EOLhyphen"/>lwch, n d y naill yw'r llall, ag nid iw 'r naill yu eynwys y llall. Er hyny nid oes ond vn vnig ſylwedd a Bod, yn yr hwn y maent yn cydſefyll, ond mae rhagoriaeth yn yr anian ar ewyllys; etto ni rannwyd mor ſylwedd ar Bod, ond mae gagendor yn gwneuthur y gwahaniaeth, yn gi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aint ag mai dim iw 'r naill yn y
+<pb n="38" facs="tcp:174172:26"/>
+llall, er hyny yno i mae, ond nid wedi i egluio ynghyneddfau y peth yn yr hwn i mae.</p>
+               <p n="2">2. Canys fe arhoſodd Diafol yn ei Arglwyddiaeth ei hun, nid yn yr hon y creawdd Duw ef, ond yn nolurus boenus eſcorfa tragwy<g ref="char:EOLhyphen"/>ddoldeb, ynghanol naturiaeth, ynghyneddf y digofaint, yn y gyneddf ſydd yn cenhedlu tywyll<g ref="char:EOLhyphen"/>wch gwewyr a phoen.</p>
+               <p n="3">3. Gwir iw mai tywyſog iw ef ynghyfle 'r byd yma, ond yn y rhanle gyntaf, yn nheyrnas y ty<g ref="char:EOLhyphen"/>wyllwch yn y dyfnder. Ond nid ynheyrnas yr haul ar lleuad ar def<g ref="char:EOLhyphen"/>nyddiau, Nid iw ef nag Arglwydd na thywyſog yno, ond yn y rhan ofidus, ſef yngwreiddyn drygani<g ref="char:EOLhyphen"/>aeth pob peth, ag er hyny nid oes mor gallu ganddo i wneuthur a fynno.</p>
+               <p n="4">4. Canys mae rhyw ddaioni ymhob peth, yr hwn ſydd yn car<g ref="char:EOLhyphen"/>charu y drwg yn y peth, ag yn i gau
+<pb n="39" facs="tcp:174172:26"/>
+i fynu; yno y gall ef rodio a rheoli yn vnig yn y drwg pan i cynhyrfo ynddo ei hunan chwant drygionus, gan ddwyn ei ewyllys i mewn ir drwg, yr hyn ni all y creaduriaid direſwm moi wneuthur, Ond fe all dyn iwneuthur drwyddynt hwy, os dwg ef nerth ei ewyllys ai gryf feddwl iddo ef allan or lle canol tragwyddol yr hyn iw ſwyn a gau<g ref="char:EOLhyphen"/>ddewniaeth.</p>
+               <p n="5">5. Hefyd, fe ddichon ewyllys diafol fynd i mewn ir peth y dycco dyn ddymuniad <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i enaid iddo (yr hyn hefyd ſydd oddiwrth y tragw<g ref="char:EOLhyphen"/>yddol mewn drygioni, canys yr vn iw cychwyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad yr enaid ar ange<g ref="char:EOLhyphen"/>lion allan or tragwyddol, Ond nid oes awdurdod mwy gan ddiafol ar amſer y byd yma, ond yn y cynwr mawr ar gythryblaeth.</p>
+               <p n="6">6. Pa le bynnag yr ennynno hwnw yn y dig tragwyddol a na<g ref="char:EOLhyphen"/>turiol, yno i mae ef yn bryſſur, fel mewn rhyfeloedd ymladd ag ym<g ref="char:EOLhyphen"/>ryſſon
+<pb n="40" facs="tcp:174172:27"/>
+ag hefyd mewn mawr dymheſtloedd diddwfr. Mae fo yn y tan yn mynd cymhelled ag yr el y niwed, mewn cawo<g ref="char:EOLhyphen"/>dydd trymion a thymheſtlo<g ref="char:EOLhyphen"/>edd o daranau mellt a chenllyſg, Ond ni ddichon ef moi cyfarwyddo hwynt, canys nid iw ef ynddynt hwy, nag arglwydd, na meiſtr, ond gwas.</p>
+               <p n="7">7. Fel hyn y mae 'r creadur drwy ei ewyllys chwant yn cyffroi da a drwg, bywyd ag angau; mae 'r chwant dynol angelaidd yn ſefyll ynghanol y naturiaeth dragwyddol (yr hon ſydd heb ddechreuad) yn yr hon y mae ef yn ei ennyn ei hun, pa vn bynnag ai mewn da neu ddrwg, yn hynny i mae yn cyflawni ei weithred.</p>
+               <p n="8">8. Wele, fe greawdd Duw bob peth er ag yn yr hyn y dyle fo fod ynddo, yr angelion yn y nef ag erddi, a dyn ymharadwys ag erddi, Gan hyny os eiff chwant y creadur
+<pb n="41" facs="tcp:174172:27"/>
+allan oddiwrth ei tam ai wreiddyn ei hun, yna mae fo 'n mynd i mewn ir croeſewyllys, ag ir elyniaeth, ag yno fe gaiff boeni gan y croeſineb, ag felly mae yn y gwir ewyllys vn ffals yn codi.</p>
+               <p n="9">9. Ag yna mae 'r ewyllys da yn mynd i mewn iw ddim eilwaith, ſef i derfyn natur a chreadur, ag felly mae yn gadel y creadur yn ei ddrygioni, fel y mae yn eglur yn Luciffer, ag yn Adda hefyd. Ag oni bai i ewyllys cariad Duw gyfarfod ag ef, a mynd i mewn eilwaith ir dyndod mewn gwir drugaredd, ni allaſe byth fod ewyllys da mewn dyn.</p>
+               <p n="10">10. Am hyny peth ofer iw 'r holl edrych a chwilio ynghylch ewyllys Duw, oni bydd y meddwl wedi i droi: canys pan fo 'r meddwl fel caethgarcharwr yn ſefyll yn yr Hunan-chwant ir bywyd dayarol, ni ddichon ef ganfod beth iw ewyllys Duw, ond rhedeg ymlaen
+<pb n="42" facs="tcp:174172:28"/>
+a wna ef yn Hunan or naill ffordd ir llall, heb gael dim gorphwys. Canys mae 'r Hunanchwant yn wa<g ref="char:EOLhyphen"/>ſtadol yn magu aflonyddwch.</p>
+               <p n="11">11. Ond pan i ſuddo ei hunan yn hollhawl i drugaredd Duw, gan chwennych marw oddiwrtho ei Hunan, a chael ewyllys Duw yn arweinydd ir deall, mae ef felly yn i gydnabod ag yn i gyfrif ei hunan megis Dum, heb chwennych dim ond yr hyn y mae Duw yn ei ewy<g ref="char:EOLhyphen"/>llyſio.</p>
+               <p n="12">12. Ag yno os daw gwyn digo<g ref="char:EOLhyphen"/>faint yn y cnawd dayarol, a chytuno gida dychymygion diafol, a goſod ar ewyllys y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enaid, yna mae 'r bryd feddwl a ymrôdd i Dduw yn gweiddi arno ag yn llefain, Abba, y Tad cariadus, Gwared fi rhag drwg.</p>
+               <p n="13">13. Ar pryd hwnw (er ir ewyllys dayarol fynd yn rhy gryf yn nigo<g ref="char:EOLhyphen"/>faint Duw drwy wenwyndra d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>fol) nid iw gwyn y digofaint yn
+<pb n="43" facs="tcp:174172:28"/>
+gweithio ond ynddo ag arno ei hunan, fel y dywaid St.<hi>Paul.</hi> Os gan hyny pechu yr wyf, nid myfi ſydd yn pechu, ond y pechod ſydd yn aros yn fynghnawd i; Ag hefyd Rwi yn fy meddwl yn gwaſnaethu cyfraith Duw, ond yn y cnawd cy<g ref="char:EOLhyphen"/>fraith y pechod.</p>
+               <p n="14">14. Nid meddwl <hi>Paul</hi> iw, y dylai yr ewyllys gydſynio yn chwant y cnawd, Ond fod pechod mor ry<g ref="char:EOLhyphen"/>mmus yn y cnawd, ſef yn nigofaint cyffrous Duw mewn Hunan, ag y cippir ef ir chwant wrth annogaeth y rhai drygionus, neu wrth edrych ar wchder a gogoniant bydol, ag felly mae fo yn llwyrfyddaru yr ewyllys ymroddgar ag yn rheoli drwy drais.</p>
+               <p n="15">15. Yr awron, Pan weithreder pechod yn y cnawd mae 'r digo<g ref="char:EOLhyphen"/>faint yn ymddifyrru ynddo, ag yn ymgippio am yr ewyllys ymrodd<g ref="char:EOLhyphen"/>gar, yr hwn ſydd yn gweiddi ar Dduw am waredigaeth oddiwrth
+<pb n="44" facs="tcp:174172:29"/>
+y drwg, ag yn gweddio ar i Dduw ſymud y pechod ymaith oddiwr<g ref="char:EOLhyphen"/>tho, a dwyn pechod ir canol, ſef ir angau fel y gallo farw.</p>
+               <p n="16">16. Ag mae St. Paul yn dy wedyd ymhellach. Nid oes gan hynny ddim damnedigaeth ir rhai ſydd ynghriſt Jeſu, y rhai a alwyd yn ol bwriad Duw, hyny iw y rhai yn y bwriad hwnw yn Nuw (yn yr hwn y galwodd Duw ddyn) a elwir eilwaith yn yr vn galwad, i ſefyll eilwaith yn y bwriad hwnw o Dduw yn yr hwn y creawdd ef ddyn i fod yn llun ag yn ddelw iddo ef.</p>
+               <p n="17">17. Cyhyd ag y bo ewyllys dyn yn ſefyll yn Hunan, cyhyd a hynny y mae fo allan o fwriad a galwad Duw, Ni alwyd mono, canys mae fo wedi mynd allan oi le ei hun, Ond pan ymdrotho 'r meddwl eilwaith ir galwad ſef ir ymro<g ref="char:EOLhyphen"/>ddiad, vna i mae rewyllys yngalwe<g ref="char:EOLhyphen"/>digaeth Duw, ſef, yn y lle yn yr
+<pb n="45" facs="tcp:174172:29"/>
+hwn a thros yr hwn y creawdd Duw ef; ag yno mae gallu ganddo i fod yn blentyn i Dduw, fel y mae yn ſcrifenedig, fe roddes ef i ni allu i fod yn blant i Dduw.</p>
+               <p n="18">18. Y Gallu yr hwn a roddes ef i ni iw ei fwriad, er mwyn yr hwn ag yn yr hwn y creawdd ef ddyn yn eilun ei hun. A hyn a ddygodd Duw eilwaith ir dyndod, ag ef a roddes allu ir gallu hwnw i dorri pen pechod yn y cnawd, ſef ewy<g ref="char:EOLhyphen"/>llys a dy muniad y Sarph, hyny iw yr ewyllys ymroddgar ynghriſt ſydd yn ſathru ar ben chwant ewyllys pechadurus y Sarph ag yn lladd eilwaith y pechodau y rhai a wneuthurwyd. Ar gallu yma yr hwn a roddir ſydd yn angau i angau ag yn nerth by wyd i fywyd.</p>
+               <p n="19">19. Am hyny ni all vn dyn wneuthur eſcus fel ped fai ef heb allel ewyllyſio. Gwir iw, mai tra fo yn dygnlynu ynddo ei Hunan
+<pb n="46" facs="tcp:174172:30"/>
+yn ei ewyllys ei hunan ag yn gwei<g ref="char:EOLhyphen"/>ni yn vnig i gyfraith pechod yn y cnawd, ni ddichon ef. Oblegid yr ydys yn i attal ef fel gwas ir pechod. Ond pan drotho fe ymaith ganol ei feddwl, ai oſod ef yn ewy<g ref="char:EOLhyphen"/>llys ag ufydddod Duw, yna fe a ddichon.</p>
+               <p n="20">20. Wele, Mae canolwreidd yn y meddwl wedi tarddu allan o dragwyddoldeb, allan o hollalluo<g ref="char:EOLhyphen"/>grwydd Duw, fe all i ddwyn i hun ir peth a fynno, ag ir lle i mynno. Canys nid oes ddeddf ir hyn ſydd or vn tragwyddol.</p>
+               <p n="21">21. Ond mae ir ewyllys ddeddf i vfyddhau i Dduw, canys yr ewy<g ref="char:EOLhyphen"/>llys a anwyd or meddwl, ag nid oes iddo moi rwygo ei hun oddi<g ref="char:EOLhyphen"/>wrth yr hyn or hwn y creawdd Duw ef.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="47" facs="tcp:174172:30"/>
+               <head>Pennod 7.</head>
+               <p n="1">1. WEle, fe greawdd Duw ewyllys y meddwl er pa<g ref="char:EOLhyphen"/>radwys ag ynddi, i fod yn gyfaill iddo yn nheyrnas y llawenydd ne<g ref="char:EOLhyphen"/>fol, ni ddylaſe moi ſymud ei hun oddi yno, ond gan ddarfod iddo ymſymud, Duw a ddygodd ei ewyllys eilwaith ir cnawd, ag yn yr ewyllys (yr hwn a newydd ddygodd ef i mewn) fe roddes allu i ni i ddwyn yn hewyllys iddo ef, ag i ennyn goleuni newydd ynddo, ag felly i ymddyfod i fod yn blant iddo eilwaith.</p>
+               <p n="2">2. Nid iw Duw vn caledu neb, ond ewyllys dyn ei hunan yr hwn ſydd yn mynd y mlaen ynghnawd y pechod, hwnw ſydd yu caledu 'r meddwl, ſef ewyllys Hunan ſydd y dwyn oferedd y byd ir meddwl, ag felly mae argau ar y meddwl, ag mae fo vn parhau felly.</p>
+               <p n="3">
+                  <pb n="48" facs="tcp:174172:31"/>3. Duw, Cymmhelled ag i mae fo yn Dduw, ag y gelwir ef felly, ni all ewyllyſio <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Drwg. Canys n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d oes ond yn vnig ew<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llys ya Nuw, a hwnw iw cariad tragwyddol, a chwant ir peth ſydd debig iddo, ſef, Grym T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h a rhinwedd.</p>
+               <p n="4">4. Nid iw Duw yn Derbyn yn pechadur iw rym ai rinwedd onid â 'r pechadur allan oi bechodau, gan fyned i mewn yn y chwant i Dduw, yr hwn ni fwrw allan mor rhai a ddel atto. Fe roddes ir ewy<g ref="char:EOLhyphen"/>llys borth agored ynghriſt, Gan ddy wedyd, Deuwch attafi bawb ar ſydd yn llwythog o bechodau, a Myfi a eſmwythaf arnoch. Cymer<g ref="char:EOLhyphen"/>wch fy iau i arnoch, honno iw Croes yr elyniaeth yn y cnawd, yr hon oedd iau Chriſt, yr hwn oedd raid iddo i dwyn dros bechodau pawb.</p>
+               <p n="5">5. Rhaid ir ewyllys ymroddgar gymeryd y groes yma arno yn y cnawd drwg dayarol pechadurus,
+<pb n="49" facs="tcp:174172:31"/>
+ai dwyn hi ar ol Chriſt mewn dio<g ref="char:EOLhyphen"/>ddefgarwch mewn gobaith, o warediad, ag yn ddibaid ſigo pen y ſarph drwy ewyllys ymroddgar yr enaid yn ewyllys Chriſt ai yſ<g ref="char:EOLhyphen"/>bryd, a lladd a difetha yr ewyllys dayarol yn nigofaint Duw, ag nid gadel iddo orphwys ar wely eſm<g ref="char:EOLhyphen"/>wyth pan wneler pechod, drwy feddwl, mi edifarha ryw amſer neu i gilydd.</p>
+               <p n="6">6. Ah. Nid felly. Mae 'r ewyllys dayarol yn mynd yn gryf, yn fras, ag yn anllad ar y gwely eſmwyth yma. Ond er cynted ag y tewynno anadl Duw ynot ti, a dangos pe<g ref="char:EOLhyphen"/>chod i ti, Rhaid i ewyllys yr enaid i ſuddo ei hun ei lawr i ddiodde<g ref="char:EOLhyphen"/>faint ag angau Chriſt, ai ymddi<g ref="char:EOLhyphen"/>lladu ei hunan yn glyd ynddo, a chymryd dioddefaint Chriſt iw feddiant, ag arglwyddiaethu ar angau pechod ymmarwolaeth Chriſt, ai ladd ai ddifetha ef ym<g ref="char:EOLhyphen"/>marwolaeth Chriſt.</p>
+               <p n="7">
+                  <pb n="50" facs="tcp:174172:32"/>7. Rhaid iddo farw er anewy<g ref="char:EOLhyphen"/>llyſgared iw, Bydded gelyniaeth rhyngoti ar cnawd dayarol nwyf<g ref="char:EOLhyphen"/>wys. Na ddod iddo mor peth a ſynno. Gâd iddo ymprydio a dwyn newyn nis iw oglais beidio, gan wybod mai ewyllys y cnawd iw dy elyndi, ag na wna mo ewyllys dymuniad y cnawd, ag felly di a ddygi angau i mewn at yr angau yn y cnawd.</p>
+               <p n="8">8. Nag edrych ar watwargerdd y byd. Meddwl mai dy elyn di y maent yn i watwar, ai fod ef wedi mynd yn ffwl iddynt. Ymhellach, Cyfrif di dy Hunan mai dy ffwl di iw, yr hwn a barodd Add<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ynot ti ag a ganiadhaodd i fod yn ffals etifedd i ti.</p>
+               <p n="9">9. Tafl allan fab <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thwas or ty (ſef y plentyn dieithr yr hwn ni roddodd Duw i fod yn nh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bywyd Adda ar y dechreuad cany<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ni chaiff mab y gaethferch etifeddu gida mab v wraig r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dd.</p>
+               <p n="10">
+                  <pb n="51" facs="tcp:174172:32"/>10. Nid iw 'r ewyllys dayarol ond mab y gaeth forwyn, canys fe ddylaſai y pedair elementau fod yn weiſion i ddyn, Ond fe ai dygodd Adda hwynt ir mabwyſiad. Am hyny Duw a ddywedodd wrth <hi>Abraham</hi> pan agorodd ef y cyfammod ar addewid ynddo ef. Tafl allan fab y gaethferch canys ni chaiff ef etifeddu gida mab y wraig rydd.</p>
+               <p n="11">11. Mab y rydd yma iw Chriſt, yr hwn a ddygodd Duw oi ras ir cnawd eilwaith droſom ni, ſef meddwl newydd yn yr hwn y gall yr ewyllys (ſef ewyllys tragwy<g ref="char:EOLhyphen"/>ddol yr enaid) dynnu ag yfed dwfr y bywyd, am yr hwn y mae Chriſt yn Sôn, Pwy bynag a yfo or dwfr yma yr hwn a rydd ef ini, fe dardda ynddo ef, ag a ſydd yn ffynnon o fywyd tragwyddol.</p>
+               <p n="12">12. Y ffynnon yma iw adnewy<g ref="char:EOLhyphen"/>ddiad meddwl yr enaid ſef y trag<g ref="char:EOLhyphen"/>wyddol Sêr gydiad anian trag<g ref="char:EOLhyphen"/>wyddol cyneddf greaduraidd yr
+<pb n="52" facs="tcp:174172:33"/>
+enaid. Am hyny yr wyf yn dy<g ref="char:EOLhyphen"/>wedyd, mae gwaith ofer a phethau di-fydd iw 'r holl ddychymygion ar dyfeiſiau ſydd gan ddynion i ddyfod at Dduw heb feddwl new<g ref="char:EOLhyphen"/>ydd.</p>
+               <p n="13">13. Nid oes yn ffordd arall at Dduw ond meddwl newydd yr hwn ſydd yn troi oddiwith ddry<g ref="char:EOLhyphen"/>gioni ag yn myned i mewn i edi<g ref="char:EOLhyphen"/>feirwch am y pechodau a wnaeth ef, ag yn myned allan oddiwrth ei anwnedd, heb i chwennych mwy, ond a cuddio ei ewyllys yn gyn<g ref="char:EOLhyphen"/>nes yn angau Chriſt, ag ai holl ofal yn marw oddiwrth bechod yr en<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id ym marwolaeth Chriſt, fel nad iw meddwl yr enaid yn ewy<g ref="char:EOLhyphen"/>llyſio pechod mwy.</p>
+               <p n="14">14. Ag er ir holl gythreuliaid i gynllwyn <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f yn galed a goſod pigau e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chwant yn y cnawd, etto fe ddyle ewyllys yr enaid ſefyll yn llonydd ai guddio ei hunan yn angau Chriſt heb chwenych nag ewyllyſio dim ond trugaredd Duw.</p>
+               <p n="15">
+                  <pb n="53" facs="tcp:174172:33"/>15. Ni thal y gweiniaith rhag<g ref="char:EOLhyphen"/>rithiol ddim nar ymgyſuro oddi<g ref="char:EOLhyphen"/>allan; fel pan fo rhai yn cuddio pechod a drygioni yn y cnawd a haeddedigaeth Chriſt, gan aros er hyny fyth yn yr Hunan. Fe ddw<g ref="char:EOLhyphen"/>edodd Chriſt Oni ddychwelwch ach gwneuthur fel plant, ni ellwchi weled teyrnas Duw. Rhaid ir meddwl ymnewyddu mor hollawl a phlentyn na wyr ddim oddiwrth bechod.</p>
+               <p n="16">16. Mae Chriſt hefyd yn dy<g ref="char:EOLhyphen"/>wedyd. Oni enir chwi eilwaith ni ellwchi weled teyrnas Duw. Rhaid iw i ewyllys newydd yn hollhawl godi yn angau Chriſt. Rhaid iw i ddwyn ef allan o gnawdoliaeth Chriſt, ai gyfodi yn adgyfodiad Chriſt.</p>
+               <p n="17">17. Yr awron, cyn y gallo hyn fod, Rhaid i ewyllys yr enaid far<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yn angau Chriſt yn gyntaf, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> yn Adda y derbyniodd e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gaethwraig ſef pechod <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="54" facs="tcp:174172:34"/>
+ſydd raid i ewyllys yr enaid i daflu allan yn gyntaf, a rhaid ir enaid truan caethiwus ymgynheſu yn angau Chriſt o ddifrif ai holl nerth ai egni, fel y bo marw mab y gaeth<g ref="char:EOLhyphen"/>ferch, ſef pechod ynddo ei hunan yn angau Chriſt.</p>
+               <p n="18">18. Yn wir, Rhaid i bechod farw yn ewyllys yr enaid, ag onide ni all fod vn weledigaeth o Dduw. Canys yr ewyllys dayarol mewn pechod a digofaint Duw ni chaiff weled Duw, ond Chriſt yr hwn a ddaeth yn y cnawd. Rhaid ir enaid wiſgo yſbryd a chnawd Chriſt. Ni all ef etifeddu teyrnas Dduw yn y dabernacl ddayarol hon, oblegid mae teyrnas y pechod yn crogi wrtho oddiallan ſydd i bydru yn y ddayar, ag i godi eilwaith mewn grym newydd.</p>
+               <p n="19">19. Nid iw rhagrith a gweiniaith a thwyll maddeuant oddiallan mewn geiriau yn talu dim. Rhaid ini fod yn blant, nid drwy gyfrif
+<pb n="55" facs="tcp:174172:35"/>
+oddiallan, ond drwy yn geni o Dduw oddifewn yn y dyn newydd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r hwn a roddwyd yn Nuw.</p>
+               <p n="20">20. Yr holl wegi in twyllo ein hunain, wrth ddywedyd ddarfod i Chriſt dalu y ddled, a gwaeuthur jawn dros bechod, ai fad ef wedi marw dros ein pechodau ni, Onid ydym ninnau hefyd yn meirw oddiwrth bechod ynddo ef, ag yn gwiſgo ei haeddedigaeth ef mewn vfydd dod newydd, ag yn byw ynddo. Nid iw 'r <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wbl ond ffals (heb hyn) ag ofer gyſſur.</p>
+               <p n="21">21. Y ſawl ſydd elyn chwerw ir pechod, fe all gyſſuro ei galon a dioddefaint Chriſt. Yr hwn nad iw oi fodd yn gweled yn clywed yn profi y pechod, ond yn byw mewn gelyniaeth yn i erbyn ag a fynnai yn waſtad wneuthur y peth ſydd dda ag vniawn, bei gwydde beth a ddyle i wneuthur: Y ſawl meddaf ſydd felly, a wiſcodd am dano y ſbryd ag ewyllys Chriſt.</p>
+               <p n="22">
+                  <pb n="56" facs="tcp:174172:35"/>22. Y dwyll ddiff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith fod dyn yn cad i gyfrif yn blentyn i Dduw drwy ryw gyfrifiad, neu afael oddiallan, ſydd ffals ag ofer. Nid iw y gwaith a wneler yn vnig yn y cnawd oddiallan yn gwneuthur plentyn Duw. Ond gweithrediad Chriſt yn yr yſbryd ſydd yn gwneuthur ag ſydd blentyn i Dduw, Ag mae'r gweithrediad yma mor nerthol yn y gwaith oddiallan, ai fod yn diſcleirio fel goleuni newydd, ag yn i amlygu ei hun yngwaith y cnawd oddiallan i fod ef yn wir blentyn i Dduw.</p>
+               <p n="23">23. Canys os llygad yr enaid ſydd olau, yna golau iw yr holl gorph yn ei holl aelodau. Yn awr os ymffroſtia neb i fod ef yn blen<g ref="char:EOLhyphen"/>tyn i Dduw ag er hyny yn gadel i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph ymloſgi mewn pechodau, Nid iw ef etto gymwys i fod yn blentyn i Dduw, ond mae fo yn gorwedd yn garcharor ynghad<g ref="char:EOLhyphen"/>wynau diafol mewn tywyllwch mawr.
+<pb n="57" facs="tcp:174172:35"/>
+Ag onid iw ef yn clywed ynddo ei hunan ewyllys difrif yn lloſgi ynddo tuag att wneuthur daioni mewn cariad, Nid iw ei eſcus ef ond dyfais ei reſwm, yn tarddu oddiwrth Hunan, na all weled Duw oni enir ef eilw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith i ddanges allan yn ei nerth ai ria<g ref="char:EOLhyphen"/>wedd mai plentyn Daw iw</p>
+               <p n="24">24. Oblegid nid o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s dân hob ol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uni ynddo. Ag os bydd y tân nefol yn y meddwl fe ddiſcleiria allan, ag fe fyn y meddwl wneu<g ref="char:EOLhyphen"/>thur y peth a fynnai Duw iddo i wneuthur.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>Pennod. 8.</head>
+               <p n="1">1. ONd fe allai y dywedi di, Mae genif ewyllys yn wir i i wneu<g ref="char:EOLhyphen"/>thur daioni. Mi fynnwn bei gall<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.Ond rwyfi yn cael fy rhwyſtro, ag mae yn methu genif.</p>
+               <p n="2">2. Je (Di ddyn diffaith) Mae Duw yn dy dynnu di i fod yn
+<pb n="58" facs="tcp:174172:36"/>
+blentyn iddo ond ni ſynni di. Mae 'r gluſtog eſmwyth mewn drygioni yn anwylach geniti na hyny. Gwell geniti lawenydd anwiredd, na llawenydd Duw. Rwyti yn glynu ynot dy Hunan etto ag yn byw yn ol cyfraith y pechod, a honno ſydd yn dy rwyſtro di. Rwyti yn anewyllyſgar i farw oddiwrth bleſer cnawd, am hyny nid wyti yn y mabwyſiad, ag er hyny mae Duw yn dy dynnu di atto, ond ni fynni di.</p>
+               <p n="3">3. O mor wych a fyddai gan Adda bei gallai fe gael i gymryd ir ne<g ref="char:EOLhyphen"/>foedd gidag ewyllys <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gnawd trachwantus, a chael plentyn y drygioni yr hwn ſydd yn llawn twyll) i eiſtedd i lawr yngorſedd<g ref="char:EOLhyphen"/>faingc Duw. Fe fynnaſe Luciffer hyny hefyd, ond fe ai chwdwyd ef allan.</p>
+               <p n="4">4. Peth gofidus, trwblaethus iw marweiddio yr ewyllys drwg. Nid oes neb a fynnai hyny. Ni fynnem i
+<pb n="59" facs="tcp:174172:36"/>
+gid fod yn blant i Dduw, bei gallem fod felly yn yr hen wiſg yma o chwant cnawdol, ond ni all hyny fod. Rhaid ir byd yma fyned heibio, ag ir bywyd allanog farw. Pa les a all y maboliaeth i wneu<g ref="char:EOLhyphen"/>thur i mi yn corph marwol.</p>
+               <p n="5">5. Os mynwn ni etifeddu y mabwyſiad, rhaid i ni wiſco am<g ref="char:EOLhyphen"/>danom y dyn mewydd yr hwn a ddichon etifeddu y mabwyſiad, yr hwn ſydd debig ir Dawdod. Ni fyn Daw fod pechadur yn y nef; ond y rhai a anwyd eilwaith ag ydynt blant ag a wiſcaſont y ne<g ref="char:EOLhyphen"/>foedd am danynt yn y byd yma.</p>
+               <p n="6">6. Am hyny nid iw mor hawdd b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn blant i Dduw ag y m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e rhai yn tybi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Yn wir nid iw ef fauch a gorthrwm mawr ir hwn a wiſcodd y mabwyſiad, yr hwn y mae ei oleuni yn diſcleirio canys iddo ef hyfrydwch iw.</p>
+               <p n="7">7. Ond i droi 'r meddwl, ag i ddiniſtrio Hunan mae 'n rhaid
+<pb n="60" facs="tcp:174172:37"/>
+wrth ddifrifwch nerthol gwaſtadol ar fath ddwysfwriad mai ped fae 'r corph ar onaid yn ymadel ai gilydd yn y matter yma, er hyny yr ewyllys a bâ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hae yn ddibaid i fyned ymlaen ag nid i ddychwelyd yn ol ir Hunan eilwaith.</p>
+               <p n="8">8. Rhaid iw i ddyn ymdrech yn hir, ſef, nes ir ganolfa dywyll ſydd mor gyfyng-gauad agoryd, ag ir wreichionen yn y ganolfa honno ennyn, Ag oddiwrth hyny yn ddiattreg y mae cangen y lili ar<g ref="char:EOLhyphen"/>dderchawg yn glaſu, fel oddiwrth yr hedyn mwſtaid (megis y dy<g ref="char:EOLhyphen"/>wedodd Chriſt)</p>
+               <p n="9">9. Rhaid i ddyn weddio o ddifrif, mewn goſtyng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iddrwydd mawr, a thros amſer fod yn ffwl yn ei reſw m ei hunan, ai weled ei hun yn wag o ddealldwriaeth yn hyn, nes llunio Chriſt yn y gnawdoliaeth newydd yma.</p>
+               <p n="10">10. Ag yno pan aner Chriſt, mae Herod yn barod i ladd y plentyn,
+<pb n="61" facs="tcp:174172:37"/>
+yr hyn y mae fo yn ceiſio i gwpl<g ref="char:EOLhyphen"/>hau oddiallan drwy erlidligaethau, ag oddifewn drwy brofedigaethau, i edrych a ſydd y gangen-liſ yma yn ddigon cref i ddiniſtrio teyrnas y diafol, yr hon a eglurwyd yn y cnawd.</p>
+               <p n="11">11. Yna mae diniſtriwr y ſarph yn cael i ddwyn ir anialwch, ar ol i fedyddio drwy 'r y ſbryd glan, ai brofi pa vn a wna ef ai parhau yn yr ymroddiad i ewyllys Duw. Rhaid iddo ſefyll mor ddiſigl, fel (os bydd rhaid) ewyllyſgar iw i adel pob peth dayarol, ie ar bywyd oddiallan i fod yn blentyn i Dduw.</p>
+               <p n="12">12. Nid oes dim priſio am hydedd dayarol yn y byd o flaen y m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bw<g ref="char:EOLhyphen"/>yſiad, ond rhaid iddo ai ewyllys i adel ai wrthod ef i gid, ag nid i gyfrif yn eiddo, ond edrych arno ei hunan yn vnig fel gwas mewn vfydddod iw feiſtr. Rhaid iddo adel pob perchenogaeth fydol. Nid ein meddwl ni iw na all ef
+<pb n="62" facs="tcp:174172:38"/>
+fwynhau neu feddiannu dim. Ond rhaid iw galon ef i wrthod fel na bo ef yn dwyn ei ewyllys iddo, nag yn i gyfrif yn ei eiddo. Os geſyd ef i galon arno, nid oes ganddo allu i waſnaethu yr anghenus ar hyn ſydd ganddo.</p>
+               <p n="13">13. Nid iw Hunan yn gwaſnaethu ond yr hyn ſydd amſerol yn vnig, ond mae gan yr ymroddiad aw<g ref="char:EOLhyphen"/>durdod ar bob peth ſydd dano, Rhaid iw i Hunan wneuthur beth bynnag a baro diafol iddo i wneu<g ref="char:EOLhyphen"/>thur drwy chwantau 'r cnawd a balchder bywyd. Ond mae'r ym<g ref="char:EOLhyphen"/>roddiad yn i fathru fo dan draed meddwl.</p>
+               <p n="14">14. Mae Hunan yn dirmygu yr hyn ſydd iſel a gwirion; Ond mae 'r ymroddiad yn eiſtedd i lawr yn y llwch gida 'r goſtyngedig, ag yn dywedyd, Mi fyddaf wirion ynof fy hun, heb graffu ar ddim, rhag im deall i dderchafu ei hunan a phechu. Mi or weddaf i lawr yn<g ref="char:EOLhyphen"/>ghynteddoedd
+<pb n="63" facs="tcp:174172:38"/>
+fy Nuw wrth ei draed ef, fel y gallwyf waſnaethu fy Arglwydd yn yr hyn a orch<g ref="char:EOLhyphen"/>mynno. Ni fynnafi wybod dim fy hunan, ond gadel i orchymyn fy Arglwydd fy arwain i, ag i minnau wneuthur yn vnig y peth a wnelo Duw drwoſi, ag a fynnai ef i mi i wneuthur. Mi gyſcaf ynof fy hunan nis ir Arglwydd fy neff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o i drwy ei yſbryd, ag onis gwna ef, Mi a waeddaf byth ag yn dragy<g ref="char:EOLhyphen"/>wydd ynddo ef, mewn diſtawr<g ref="char:EOLhyphen"/>wydd, ag a ddiſgwiliaf am ei orch<g ref="char:EOLhyphen"/>mynion.</p>
+               <p n="14">14. Fymrodyr anwyl, mae dy<g ref="char:EOLhyphen"/>nion yn y dyddiau yma yn ymffro<g ref="char:EOLhyphen"/>ſtio llawer ynghylch ffydd. Ond pa le i mae y ffydd honno? nid iw 'r ffydd gyffredinol ond hiſtori, Ond pa le mae 'r plentyn hwnnw ſyn credu fod yr Jeſu wedi i eni? Ped fai 'r plentyn hwnw yn Bôd, ag yn credu eni 'r Jeſu, fe neſhae at y plentyn tirion Jeſu ac ai derby<g ref="char:EOLhyphen"/>nnie,
+<pb n="64" facs="tcp:174172:39"/>
+ag ai mamhaethai.</p>
+               <p n="15">15. ôch. Nid iw 'r ffydd yraw<g ref="char:EOLhyphen"/>ron ond Hiſtoriâol, nid iw hi ond yn vnig wybodaeth or Hiſtori, ddarfod ir Iddewon i ladd ef, ag iddo yntau adel y byd, ag nad iw fo, yr awron yn frenin ar yddayar yn y dyn naturiol, Ond y gall dy<g ref="char:EOLhyphen"/>nion wneuthur a fynnont, ag nad rhaid iddynt hwy farw oddiwrth bechod a chwantau drwg. A hyn i gid y mae 'r Plentyn drwg Hunan yn ymddi fyrru ynddo i lawnbor<g ref="char:EOLhyphen"/>thi diafol wrth fyw yn foethus.</p>
+               <p n="16">16. Mae hyn yn dangos yn eglur, na bu wir ffydd wannach nag ei<g ref="char:EOLhyphen"/>ddilach er amſer Chriſt nag ydiw h yr awron. Ag er hyny, mae 'r byd yn gweiddi yn vchel ag yn dywedyd. Ni a gawſom y wir ffydd. Ag yn ymryſſon am blentyn, fel na bu waeth ymryſonau er pan iw dynion ar y ddayar.</p>
+               <p n="17">17. Os Sion wyti, a chenyt y plentyn newydd hwnnw eni, yr
+<pb n="65" facs="tcp:174172:39"/>
+hwn a gollaſid ond a gafwyd eil<g ref="char:EOLhyphen"/>waith, yna gâd i weled ef mewn nerth a rhinwedd, a gâd i ni gael golwg amlwg ar y plentyn pryd<g ref="char:EOLhyphen"/>ferth Jeſu wedli i eſcor genit ti, fel y gallom weled mai dydi iw i famfaeth. Onide, yna y plant yn<g ref="char:EOLhyphen"/>ghriſt a ddywedant, ni chefaiſt ti ddim ond yr Hiſtori, ſef cryd y plentyn.</p>
+               <p n="18">18. Pa le mae genit ti yr hyfryd faban Jeſu.? Dydi yr hwn wyt yn ymchwyddo yn yr Hiſtori, ath ffydd ffals dwyllodrus ôh, fel y daw plentyn Jeſu (ar amſer) attati yn naturiaeth ddigllon-gyneddf y Tâd yn dy wreiddyn cyffrous di dy hunan, yr hwn a fegaiſt ag a borthaiſt ynot. Mae fo yn galw arnatti yr awron, ond ni fynni di wrando, am fed dy gluſtiau diwedi i cau yn chwant a phleſer y cnawd: Am hyny Rhaid i lais yr udcorn vnwaith dy yſcwyd di ath gyffroi drwy erchyll garreg daran dy
+<pb n="66" facs="tcp:174172:40"/>
+dymheſtl dy hun, ath ddeffro di, yſgatfydd di gei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ag a gei etto yr hyfryd faban Jeſu.</p>
+               <p n="19">19. Fy mrodyr anwyl. Amſer iw hwn i geiſio, i geiſio ag i gael. Amſer difrif rhyfedd iw, A gyffyrddo a gyffyrdd hyd adref. Y Sawl ſydd yn gwilio, ai gwel ag ai clyw. Ond yr hwn ſydd yn cyſgu yn y pechod ag ymras-ddyddiau ei fôl ei hun yn dwedyd, mae pob peth yn llo<g ref="char:EOLhyphen"/>nydd ag yn heddychlon, ni chlywn ni ddim ſwn oddiwrth Dduw, hwn a gaiff i ddallu.</p>
+               <p n="20">20. Ond mae llais yr Arglwydd wedi dechrau ſwnio yn holl eitha<g ref="char:EOLhyphen"/>foedd y ddayar, ag mae mwg yn co<g ref="char:EOLhyphen"/>di, ag ynghanol y mwg y mae gloy<g ref="char:EOLhyphen"/>wder a diſcleirdeb mawr.</p>
+               <trailer>Ha-le-lu-jah. Amen. Gwaeddwch ir Arglwydd yn Sion. Canys mae 'r holl fynydd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edd ar bry<g ref="char:EOLhyphen"/>nniau yn llawn oi ogoniant, mae fo yn tarddu, ag yn torri allan fel cangen laſwyrdd. A phwy a âll i rwyſtro? Ha-le-lu-jah.</trailer>
+            </div>
+         </div>
+         <div type="discourse">
+            <pb facs="tcp:174172:40"/>
+            <pb facs="tcp:174172:41"/>
+            <pb n="67" facs="tcp:174172:41"/>
+            <head>Y Diſcybl ai Athraw O newydd.</head>
+            <p>Nid y llyfr oedd gynt or vn henw, neur hen Lucidarius, ond yr egluryn newydd. Neu y bywyd nefol, rhyfeddol goruwchanianol. Neu y Diſcybl ai Athraw yn Gymraeg.</p>
+            <p>Fe ai cyfieithwyd yn y flwyddyn 1655. ag ai printiwyd 1657.</p>
+            <p>D.Y <hi>Diſcybl a ddywedodd wrth ei Athro. Pa fodd y deuaf fi ir bywyd ſydd vwchlaw naturiaeth fel y gallwyf
+<pb n="68" facs="tcp:174172:42"/>
+weled Duw ai glywed ef yn llefaru?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ei Athraw a ddywedodd. Pan allech dy daflu dy hun (ped fai ond dros vn munud) ir hyn, lle nid oes vn creadur yn aros, yna y clywi beth y mae Duw yn i lefaru.</p>
+            <p>Diſcybl. <hi>A ydrw hyny yn agos neu ymmhell?</hi>
+            </p>
+            <p>
+               <hi>Athro.</hi> Ynot ti i mae, Ag os gelli di dros amſer beidio ath holl feddyliau ath ewyllyſiadau dy hun di gei glywed anrhaethadwy eiriau Duw.</p>
+            <p>Diſcybl. <hi>Pa fodd y cai glywed pan ſafwyf yn llonydd oddiwrth feddylio ag ewllyſio?</hi>
+            </p>
+            <p>
+               <hi>Athro.</hi> Pan ſafech di yn llonydd oddiwrth feddylio ag ewyllyſio yr Hunan, yna y clywi, ar golwg ar lleferydd tragwyddol a ddatcuddir ynot ti, ag felly Duw ſyn gweled ag yn clywed drwot ti, Dy glyw ath ewyllys ath olwg dy hun ynt yn dy rwyſtro di, fel nad wyti nag yn gweled nag yn clywed Duw.</p>
+            <p>
+               <pb n="69" facs="tcp:174172:42"/>D. <hi>A pha beth y clywai neu y gwelai Dduw, gan i fod ef vwchlaw 'r natur ar creadur?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pan fych di yn llonydd ag yn ddiſtaw yna yr wyti yn yr hyn yr oedd Duw cyn bod natur a chrea<g ref="char:EOLhyphen"/>dur. yna y clywi drwy 'r hyn y clywodd ag y gwelodd Duw ynot ti cyn dechrau oth ewyllys ath weled ath glywed di dy hunan.</p>
+            <p>D. <hi>Beth ſydd yn fy rhwyſtro i ag yn fynghadw i yn ol na allafi ddyfod at hyny?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Dy ewyllyſiau ath glyw ath olwg dy hunan: ag am dy fod ti yn ymryſon yn erbyn yr hyn or hwn y daethoſt di allan, Rwyti yn dy dorri dy hun ymaith drwy dy ewyllyſio dy hun oddiwrth ewyll<g ref="char:EOLhyphen"/>yſio Duw, a thrwy dy hunan olwg rwyti yn gweled yn vnig yn dy ewyllys dy hunan. Ath ewyllyſio di ſydd yn cau cluſt dy glywed drwy dy hunan feddyliau am be<g ref="char:EOLhyphen"/>than dayarol naturiol, ag yn dy
+<pb n="70" facs="tcp:174172:43"/>
+ddwyn i ryw lawr, ag yn dy orch<g ref="char:EOLhyphen"/>guddio di ar hyn a ewyllyſiaiſt, ag felly ni elli di gyrhaedd mor hyn ſydd vwchlaw naturiaeth a go<g ref="char:EOLhyphen"/>ruwchanianol.</p>
+            <p>D. <hi>Gan fy mod i mewn naturiaeth, pa fodd y gallai ddyfod drwy natu<g ref="char:EOLhyphen"/>riaeth ir gwaelod ysbrydol heb ddini<g ref="char:EOLhyphen"/>ſtrio naturiaeth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yma mae yn rhaid wrth dri pheth y cyntaf iw, Rhaid i ti roddi i fynu dy ewyllys i Dduw, ath ſuddo dy hun ir llawr yn ei drug<g ref="char:EOLhyphen"/>aredd ef. yr ail iw, Rhaid i ti ffi<g ref="char:EOLhyphen"/>eiddio dy ewyllys dy hunan, ag nid gwneuthur y peth y mae dy ewyll<g ref="char:EOLhyphen"/>ys yn dy yrru di atto. y trydydd iw. Rhaid i ti dy lwyr oſtwng dy hun dan y groes fel y gellych fod yn abl i ddwyn profedigaethau natur ar creadur. Ag os wyti yn gwneuthur fel hyn, Duw a lefara i mewn i ti ag a ddwg dy ewyllys ymroddgar di i mewn iddo ei hunan ir llawr goruwchanianol, ag
+<pb n="71" facs="tcp:174172:43"/>
+yno cei glywed beth a ddywaid yr Arglwydd ynot ti.</p>
+            <p>D. <hi>Rhaid fyddai i mi adel y byd am bywyd hefyd os gwnawn i fel hyn?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Os gwrthodi di 'r byd, di ddoi i mewn ir peth or hwn y gwnaed y byd. Ag os colli di dy fywyd (drwy fod dy rym dy hunan mewn llewyg) yna mae dy fywyd ynddo fo er mwyn yr hwn y gwr<g ref="char:EOLhyphen"/>thodaiſt y byd, ſef yn Nuw, or hwn y daeth ef ar y cyntaf ith gorph di.</p>
+            <p>D. <hi>Fe greawdd Duw ddyn yn y bywyd naturiol ag erddo, i reoli 'r holl greaduriaid ar y ddayar, ag i fod yn Arglwydd ar bob peth yn y byd yma, Am hyny rheſwm iw iddo fwynhau 'r byd fel ei eiddo ei hun.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Os llywodraethi ar yr holl greaduriaid mewn ffordd oddi<g ref="char:EOLhyphen"/>allan yn vnig, yna anifeiliaidd iw dy ewyllys ath lywodraeth di, ag nid iw ond rhyw ddelw ddarfodedig o reolaeth, a chida hyny rwyti yn gyrru dy ddymuniad ir hanffod
+<pb n="72" facs="tcp:174172:44"/>
+anifeiliaidd, a thrwy hyny rwyti yn cael dy ddifwyno ath gaethiwo oddifewn, ag yn gwiſco am danat y cyflwr anifeilig. Ond os ymade<g ref="char:EOLhyphen"/>waiſt di a chyflwr y dychymugia<g ref="char:EOLhyphen"/>dau yna yr wyti vwchlaw 'r holl ddelwau, oddifewn ag oddiallan, yn rheoli ar yr holl greaduriaid yn y Gwreiddyn hwnw or hwn y crewyd hwynt, ag ni all dim ar y ddayar wneuthur niwed iti, am dy fod ti yn debig ir oll, heb ddim yn anhebig i ti.</p>
+            <p>D. <hi>ô feiſtr cariadus, Adolwg dyſg fi pa fodd y mae i mi ddyfod y ffordd neſaf i fod yn debig ir oll?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> ô holl ewyllys fynghalon. Gwna gimaint a meddwl am eiriau ein harglwydd ni Jeſu Ghriſt pan ddywedodd ef. <hi>Oni throwch chwi a bod fel plant bychain ni chewch chwi gimaint a gweled teyrnas Duw.</hi> yn awr os mynni di fod yn debig ir oll, rhaid i ti wrthod pob peth, a throi dy ddymuniad oddiwrthynt, ag nid
+<pb n="73" facs="tcp:174172:44"/>
+i chwennych, nag ymhelaethu i fe<g ref="char:EOLhyphen"/>ddiannu i ti dy hunan rywbeth. Canys er cynted ag y cymerych ryw beth ith ddeiſyfiad, gan i dderbyn i mewn i ti fel dy eiddo di, yna mae y rhywbeth hwnw yn vn ath di dy hun, ag mae fo yn gweithio gidath di yn dy ewyllys, ag yno rwyti yn rhwymedig iw ymddiffyn ef, ag i ofalu am dano fel am dy anian dy hun. Ond onis derbyni di ddim ith ewyllys yna yr wyti yn rhydd oddiwrth bob peth, ag yn rheoli ar y cyfan ar vn<g ref="char:EOLhyphen"/>waith, am na dderbyniaiſt di ddim fel dy eiddo dy hun, ag yr wyti fel Dim i bob peth, a phob peth fel dim i tirhau, Rwyti fel plentyn na wŷr beth iw Dim, ag er dy fod ti yn i ddeall, rwyti yn i ddirnad heb iddo gyffwrdd ath feddwl di, yn yr vn wedd ag y mae Duw yn rheoli ag yn gweled pob peth, ag er hyny nid iw Dim yn galliu i amgy<g ref="char:EOLhyphen"/>ffred ef. Di ddymunaiſt hefyd ar i
+<pb n="74" facs="tcp:174172:45"/>
+mi ddyſgu i ti pa fodd y mae i ti gyrhaeddyd hyn. Am hyny yſtria eiriau Chriſt, yr hwn a ddywe<g ref="char:EOLhyphen"/>dodd. Hebof fi ni ellwch chwi wneuthur Dim; yn dy nerth dy, hun ni elli ddyfod ir fath orphwyſ<g ref="char:EOLhyphen"/>fa na allvn creadur gyffwrdd athdi oni roddi di dy hunan yn hollhawl i fynu i fywyd ein Harglwydd Jeſu Ghriſt a chwbl dalu adref iddo fo dy ewyliys ath ddeyſyfiad, heb chwennych dim ond efo, yna rwyti ath gorph yn y byd (yn y cyneddfau) ag ath reſwm dan groes Chriſt ein Harglwydd, Ond ath ewyllys rwyti yn rhodio yn y nef, ag wyt ar y terfyn or hwn y daeth yr holl greaduriaid allan, ag at yr hwn y dychwelant; Ag yno di elli ganfod pob peth oddiallan ath reſwm, ag oddifewn ath feddwl, a rheoli ymhob peth ag ar bob peth gida Chriſt, ir hwn y rhoddwyd pob gallu yn y nefoedd ar ddayar.</p>
+            <p>D. <hi>ô Athro. y creaduriaid y rhai
+<pb n="75" facs="tcp:174172:45"/>
+ſydd yn byw ynof ynt yn fy attal i, na allai mom rhoi fy hunan i fynu yn fel y mynnwn i yn hollawl?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Os dy ewyllys a ddiangc allan oddiwrth y creaduriaid, yna mae 'r creaduriaid wedi i gwrthod ynot ti. Mae nhw yn y byd, ag nid oes ond dy gorph di yn vnig gida 'r creaduriaid ond yn yſbrydol rwy<g ref="char:EOLhyphen"/>ti yn rhodio gida Duw. Ag os gâd dy ewyllys di y creaduriaid, yna meirw yd ynt ynddo, a byw y maent yn vnig yn y corph yn y byd. ag oni ddwg dy ewyllys di ei hunan i mewn iddynt, ni allant gyffwrdd ar enaid. Canys S. <hi>Paul</hi> a ddywedodd <hi>Ein hymwareddiad ni ſydd yn y nefoedd. ag hefyd, chwi iw teml yr ysbryd Glan yr hwn ſydd yn aros ynochi.</hi> felly yr yſbryd glan ſydd yn aros yn yr ewyllys ar crea<g ref="char:EOLhyphen"/>duriaid yn y corph.</p>
+            <p>D. <hi>Os iw 'r ysbryd glan yn aros yn ewyllys y meddwl, Pa fodd y cadwai fy hunan fel nad ymadawo ef am f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi>
+            </p>
+            <p>
+               <pb n="76" facs="tcp:174172:46"/>
+               <hi>A.</hi> Dal ſulw ar eiriau ein Har<g ref="char:EOLhyphen"/>glwydd Jeſu Ghriſt: <hi>Os arhoſwch yn fyngeiriau yna fyngeiriau i a arho<g ref="char:EOLhyphen"/>ſant ynoch chwithau.</hi> Os arhoſi di ath ewyllys yngeiriau Chriſt yna ei air ai yſbryd yntau ynt yn aros ynot tithau Ond os â dy ewyllys di i mewn ir creuduriaid, yna di ath dorraiſt dy hun oddiwrtho ef, ag yno ni elli di mewn vn ffordd yn y byd dy gadw dy hunan ond drwy aros yn ddibaid yn yr ymroddiad goſtyngedig, gan fyned i mewn ir edifeirwch waſtadol, wrth fod yn drwm genit bob amſer fod creaduriaid yn byw ynot ti. Os gwnei fel hyn, Rwyti beynydd yn marw oddiwrth y creaduriaid, a phob dydd yn eſcyn i fynu ir nefoedd yn dy ewyllys.</p>
+            <p>D <hi>ô fy Athro mwyn, er dolwg Dyſg i mi, pa fodd y mae i mi ddyfod ir fath editeirwch ddibaid ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pan adawech yr hyn ath gâr, a phan garech yr hyn ath gaſha,
+<pb n="77" facs="tcp:174172:46"/>
+yna y gelſi aros yn waſtad mewn edifeirwch.</p>
+            <p>D. <hi>Beth iw hwnw ſydd raid i mi i adel felly?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Y creaduriaid mewn cnawd a gwaed, a phob peth arall ath gâr (ath gâr am fod dy ewyllys di yn i mamhaethu hwynt) Rhaid ir ewy<g ref="char:EOLhyphen"/>llys i gwrthod ai cyfrif yn elynion. A chroes ein Harglwydd Jeſu Ghriſt gida dirmyg y byd ath gaſhâ di, y rhain ſydd raid i ti ddyſgu i caru ai cymryd beynydd fel rhyw ymarfer ith edifeirwch, ag yno di gei achos gwaſtadol ith gaſhau dy hunan yn y creadur, ag i geiſio yr orphwysſa dragwyddol, yn yr hon y caiff dy ewyllvs waſtadrwydd fel y dywedodd Chriſt. <hi>Ynofi y cewch orphwyſder, ond yn y byd y cewch flinder.</hi>
+            </p>
+            <p>D. <hi>Pa fodd y gorfyddaf fi yn y fath brofedigaeth a hon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Os tefli di dy hunan vnwaith bob awr tu hwnt ir holl gredu<g ref="char:EOLhyphen"/>riaid,
+<pb n="78" facs="tcp:174172:47"/>
+vwchlaw pob rheſwm ania<g ref="char:EOLhyphen"/>nol, i drugaredd dyner af Duw, i ddioddefaint ein Harglwydd ni, ath ymroddi dy hunan i hyn, yna di gei dderbyn awdurdod i reoli ar y pechod ar angau ar cythrael ag ar vffern ar byd, ag yno di elli ſefyll ymhob profedigaeth.</p>
+            <p>D. <hi>Ys truan o ddyn ydwyf. Beth a ddeuai o honofi, ped fawn i yn cyr<g ref="char:EOLhyphen"/>haedd am meddwl ir peth lle nid oes vn creadur?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ei feiſtr a ddywedodd wrtho yn fwyn dros ben. fy yſcolhaig tirion hawddgar Ped fai dy ewyllys di yn gallel ymdorri oddiwrtho ei hunan dros vn awr oddiwrth bob peth ar a wnaeth Duw, ai daflu ei hunan lle nid oes vn creadur, yno fe wiſgid d y ewyllys di i gid droſto a diſcleirdeb gogoniant Duw, ag fe gai brofi ynddo ei hunan gariad melyſaf ein Harglwydd Jeſu Ghriſt, yr hwn ni ddichon vn dyn moi draethu. Ag fe gai glywed
+<pb n="79" facs="tcp:174172:47"/>
+ynddo ei hunan anrhaethadw y eiriau ein Harglwydd ynghylch ei ſawr drugaredd fe gai glywed a theimlo ynddo ei hunan, y byddai groes ein Harglwydd Chriſt yn dirion hyfryd iddo, ag fe ai care hi yn fwy na holl anrhydedd a da 'r byd hwn.</p>
+            <p>D. <hi>Ond beth a ddenai or corph, gan fod yn rhaid i hwnnw fyw yn y creadur?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Y corph a draddodid i wyddor ein Harglwydd Chriſt yr hwn a ddywedodd, nad oedd moi deyrnas ef or byd yma, fe ddechreue 'r corph farweiddio oddiallan ag oddifewn, oddiallan oddiwrth oferedd a drwgweithredoedd y byd, fe fyddai elyn glas i bob balchder a gorwagedd, oddifewn marw fy ddai oddiwrth yr holl chwantau drwg ar genfigen, ag felly fe gai feddwl ag ewyllys hollawl newydd, yr hwn a dueddai yn waſtad tuag at Dduw a daioni.</p>
+            <p>
+               <pb n="80" facs="tcp:174172:48"/>D. <hi>Ond y byd ai caſhae, ag ai dirmyge am wneuthur felly, gan fod yn rhaid iddo ddywedyd yn erbyn y byd, a byw a gwnenthur yn groes ir hyd?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ni chyfrife ef mo hyny yn niwed yn y byd, ond fe a laweny<g ref="char:EOLhyphen"/>chai i fod ef yr awron yn cael i gyfrif yn deilwng i fod yn debig i ddelw ein Harglwydd Jeſu Ghriſt, gan ddwyn y groes honno yn ewy<g ref="char:EOLhyphen"/>llyſgar iawn ar ol ein Harglwydd, yn vnig er mwyn ir Arglwydd roddi gwlith ei felys gariad arno ef.</p>
+            <p>D. <hi>Beth a daeuai <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ono pan oſodai digofaint Dwv odd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ewn, ar byd mal<g ref="char:EOLhyphen"/>eiſus oddiallan <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unwaith arno ef, fel <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> digwyd<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d i Ghriſt ein Hargl<g ref="char:EOLhyphen"/>wydd?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Bydded felly iddo ef, fel y bu i Ghriſt ein Harglwydd pan gywilyddiwyd, pan dd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hirwyd, a phan groeſhoeliwyd ef d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wy greu<g ref="char:EOLhyphen"/>londeb y byd ar offeiriaid, efe a
+<pb n="81" facs="tcp:174172:48"/>
+orchmynnodd ei enaid i ddwylaw ei Dad, ag felly fe ymadawodd oddiwrth drallod y byd hwn ir llawenydd diddiwedd. Felly hefyd y diangai 'r enaid oddiwrth ddir<g ref="char:EOLhyphen"/>myg a thrallod yr holl fyd, gan dreiddio iddo ei hunan i fawr ga<g ref="char:EOLhyphen"/>riad Duw, drwy gael i gynnal ai adfywio gan yr henw melyſaf Je<g ref="char:EOLhyphen"/>ſu, a gweled a chael ynddo ei hu<g ref="char:EOLhyphen"/>nan fyd newydd yn tarddu allan drwy ddigofaint Duw. Yna y dyle ddyn yn hyny wiſgo ei enaid yn glyd, a chyfrif pob peth yr unfath, a pha vn bynag ai yn y bedd, ai ar y ddayar y bo 'r corph, er hyny mae ei feddwl ef yn aros ynghariad cynheſaf Duw.</p>
+            <p>D. <hi>Ond pa fodd y mantumid ei gorph ef yn y byd, a pha fodd y cynha<g ref="char:EOLhyphen"/>liai ef ei deulu ai eiddo, os rhydd ef achos ir holl fyd i ddigio wrtho ef?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae fo yn cael ffafr fwy nag a all yr holl fyd i ddangos iddo, canys mae ganddo Dduw ai holl
+<pb n="82" facs="tcp:174172:49"/>
+angelion yn gyfellion iddo, maent yn i achub ynghanol yr holl bery<g ref="char:EOLhyphen"/>glon ar anghenrheidiau. Hefyd Duw iw ei fendith ef ymhob peth. Ag weithiau er bod Duw megis heb fynnu i fendithio (fel y tybygai ef) Nid iw hyny ond iw brofi, ag i dynnu cariad Duw, fel y bo iddo weddio mwy ar Dduw a gorchy<g ref="char:EOLhyphen"/>myn ei holl ffyrdd iddo ef.</p>
+            <p>D. <hi>Ond mae fo yn colli ei holl gym<g ref="char:EOLhyphen"/>deithion da, ag ni bydd neb iw helpu fo yn ei angen.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nage, ond mae fo yn cael iw feddiant galonnau ei holl gymdei<g ref="char:EOLhyphen"/>thion da, ag nid iw fo yn colli neb ond ei elynion, y rhai or blaen a garent ei oferedd ai ddrygioni ef.</p>
+            <p>
+               <hi>D. Pa fodd y mae fo yn cael iw feddiant ei holl gymdeithion da?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae fo yn cael yr holl enei<g ref="char:EOLhyphen"/>diau a ſy 'n perthyn in Harglwydd Jeſu i fod yn frodyr iddo ef, ag yn aelodau oi fywyd ef ei hunan. Canys nid iw holl blant Duw ond
+<pb n="83" facs="tcp:174172:49"/>
+vn ynghriſt, <hi>ar vn yma iw Chriſt yn y cwbl.</hi> Am hyny mae fo yn i cael nhw i gid i fod yn gyd-aelodau iddo ef ynghorph Chriſt Am yn ei myſg hwynt y mae 'r da nefol yn gyffre<g ref="char:EOLhyphen"/>din, a byw y maent yn vn vnig gariad Duw, fel y tyf canghennau pren oddiwrth yr vn ſugn yn y gwreiddyn. Hefyd ni all fod arno chwaith eiſiau cyfeillion naturiol oddiallan, fel nad oedd ar Ghriſt ein Harglwydd eiſiau 'r cyfryw. Canys er nad oedd yr Archoffeiriaid a galluogion y byd yn i garu ef (am nad oeddynt yn perthyn iddo nag yn aelodau nag yn frodyr iddo) er hyny y rhai a allent gynwys ei ei<g ref="char:EOLhyphen"/>riau ai hoffent ef. Felly hefyd y rhai a garant wirionedd a chyfia<g ref="char:EOLhyphen"/>wnder a ymgleddant y cyfryw ddyn, ag a ymgaredigant ag efo, ſel Nicodemus a Chriſt yr hwn a ddaeth atto liw nos, gan garu 'r Jeſu yn ei galon er mwyn y gwiri<g ref="char:EOLhyphen"/>onedd, ag efe etto oddiallan yn ofni
+<pb n="84" facs="tcp:174172:50"/>
+r' byd. Ag fel hyn y caiff hwnw lawer o garedigion, er nad edwyn hwynt.</p>
+            <p>
+               <hi>D. Ond peth blin tragofidus iw i ddyn gael i ddirmygu gan yr holl fyd.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Er dy fod ti yr awron yn co<g ref="char:EOLhyphen"/>fleidio y ſynwyr ddayarol, etto pan wiſger di ar ddoethineb nefol, di gai weled yn eglur nad iw holl ddoethineb y byd ond ffolineb, ag nad iw 'r byd yn caſhau ond dy elyn di, ſef y bywyd marwol; a phan ddelych di dyhun i gaſhau ei wyllys ef, yna di ddechreui garu cael y dirmyg ar y bywyd mar<g ref="char:EOLhyphen"/>wol</p>
+            <p>D. <hi>Ond pa fodd y ſaif y ddau yma ynghyd, ſef i ddyn i garu ai gaſhau ei hunan?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Wrth dy garu dy hun nid wyti yn dy garu dy hun fel dy eiddo, ond fel peth wedi i roddi o gariad Duw. Di geri y duwiol<g ref="char:EOLhyphen"/>wreiddyn ynot drwy 'r hwn yr
+<pb n="85" facs="tcp:174172:50"/>
+wyt <hi>yn hoffi y dduwiol ddoethineb, a rhyfeddo dau Duw ath frodyr.</hi> Ond wrth dy gaſhau dy hun rwyti yn caſhau yn vnig yr hyn ſydd eiddot dy hunan yn yr hwn y mae 'r drwg yn tâer lynu wrthyt. A hyn a wnei fel y gellych gwbl ddiniſtrio ynot yr hyn a elwi dy eiddo dy hun (wrth ddywedyd Myfi, neu Myfi ſy hun ſy 'n gwneuthur hyn neu hyn accw) Hwn a fynnit i lwyrddifetha ynot fel y gellych ymfod yn holl<g ref="char:EOLhyphen"/>hawl yn ſylwedd nefol. Cariad a gaſha 'r Hunan, neu yr hyn a alwn ni Myfi, O achos mai peth enbyd marwoliw, ag ni all y ddau hyn gydtuno yn iawn. Canys cariad ſydd yn mwynhau 'r nefoedd ag yn aros ynddo ei hunan, Ond yr hyn yr wyf yn i alw Myfi a fwyn<g ref="char:EOLhyphen"/>ha 'r byd ar pethau bydol, ag he<g ref="char:EOLhyphen"/>fyd a drig ynddo ei hun. Ag fel y mae 'r nefoedd yn rheoli 'r byd, a thragwyddoldeb, yn rheoli amſer, felly mae 'r cariad yn rheoli ar y bywyd naturiol.</p>
+            <p>
+               <pb n="86" facs="tcp:174172:51"/>D. <hi>Fy anwyl Athro, Dywaid i mi (Adolwg) Pam y mae yn rhaid i ga<g ref="char:EOLhyphen"/>riad ag i gyſtudd, i gyfaill ag i elyn, fod ynghyd? Onid gwell fyddai ca<g ref="char:EOLhyphen"/>riad ei hun?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Oni bai fod cariad yn aros mewn cyſtudd ni allai gael dim iw garu. Ond gan fod ei ſylwedd ef (yr hwn a gâr) ſef yr enaid truan, mewn gofid a phoen, mae achos iddo i garu i ſylwedd ei hun, ag iw waredu oddiwrth y boen fel y carer yntau ei hunan eilwaith. Ie ni ellid gwybod beth iw cariad, oni bai fod ganddo rywbeth iw garu.</p>
+            <p>D. <hi>Pa beth iw rhinwedd, nerth, vwchder a maintiolaeth cariad?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ei rinwedd iw 'r Dim or hwn yr hanoedd pob peth. Ai nerth ſydd ymhob peth, a thrwy bobpeth. Ei hvwchder ſydd cyfywch a Duw, ai maintiolaeth ſydd fwy nar mw<g ref="char:EOLhyphen"/>yaf. Pwy bynag ai caffo ſydd yn cael dim ar cwbl oll.</p>
+            <p>
+               <pb n="87" facs="tcp:174172:51"/>D. <hi>Fy Ahro cariadus Rwyf yn dy<g ref="char:EOLhyphen"/>muno arnat ddangos pa fodd y mae i mi ddeall hyn.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pan wyf yn dywedyd, mai 'r Dim hwnw iw ei rhinwedd, di elli i ddeall fel hyn; Pan elych di yn gwbl allan or creadur, drwy ddy<g ref="char:EOLhyphen"/>fod i fod yn ddim, ir hyn oll ſydd natur neu greadur, yna yr wyti yn yr vn tragwyddol hwnnw, yr hwn iw Duw ei hunan, ag yno y cai gan<g ref="char:EOLhyphen"/>fod ag ymglywed a rhinwedd vch<g ref="char:EOLhyphen"/>af y cariad. Ond pan ddwedwyf fod grym y cariad ymhob peth a thrwy bob peth, di ganfyddi ag a ddeelli yn dy enaid ath gorph dy hunan, pan ennynno y cariad mawr yma ynoti fe lyſg yn wreſoccach nag vn tân. Di weli hefyd yn holl weithredoedd Duw ddarfod ir ca<g ref="char:EOLhyphen"/>riad i thywallt ei hunan i bob peth, <hi>ag hi iw y ſylwedd pellaf oddifewn ag oddiallan ymhobpeth.</hi> Oddifewn yn y rhinwedd ar nerth, ag oddia<g ref="char:EOLhyphen"/>llan yn ffigur ffurf a llûn pob peth.
+<pb n="88" facs="tcp:174172:52"/>
+A lle y dywedais i, fod ei huwch<g ref="char:EOLhyphen"/>der hi yn ogyfuwch a Duw, di elli ddirnad hyn ynot dy hun, yn gim<g ref="char:EOLhyphen"/>aint a bod y cariad yn dy ddwyn di i fynu i vchelder Duw ei hun, fel y gellir gweled yn ein hanwyl Arglwydd Jeſu Ghriſt (yn ein dy<g ref="char:EOLhyphen"/>nol anian ni) yr hon anian a ddarfu ir cariad i dwyn i fynu ir orſedd<g ref="char:EOLhyphen"/>faingc vchaf, i awdurdod y Duw<g ref="char:EOLhyphen"/>dod. Ond lle y dywedais i fod ei maintiolaeth hi yn fwy nar mwyaf; Hyn ſydd wir hefyd. Canys fe ddichon y cariad fynd i mewn ir hyn lle nid iw Duw yn aros, fel pan oedd Chriſt ein hanwyl Arglwydd ni yn vffern, Nid Duw oedd vffern, Er hyny yr oedd y cariad yno yn difetha angau. Hefyd pan fych di mewn trallod a chyfyngder, nid Duw iw 'r drallod ar cyfyngder, ond mae ei gariad ef yno yn dy ddwyn di allan or cyfyngder i Dduw. Pan guddio Duw ei hunan ynot ti mae y cariad yno, ag yn i
+<pb n="89" facs="tcp:174172:52"/>
+amlygu ef ynot ti. Gida hyny, mi ddywedais. Pwy bynag ai caffo ſydd yn cael <hi>dim a phob peth.</hi> Gwi<g ref="char:EOLhyphen"/>rionedd iw hyn hefyd, am i fod ef yn cael y goruwch naturiol, goru<g ref="char:EOLhyphen"/>wchanianol waelod, diwaelod, diſyl wedd, am nad oes lle i aros ynddo. Ag hefyd nid iw ef yn cael dim ſydd debig iddi, Am hyny y gellir i chyffelybu i ddim, am mai dyfnach iw na phob peth, ag megis dim i bob peth, am na ellir i hamgyffred, Ag am mai Dim iw, mae hi yn rhydd oddiwrth bob peth, yr vnig Ddaioni 'y diw yr hwn ni ddichon dyn na thraethu na dywedyd Beth iw. Ond yn olaf mi ddy<g ref="char:EOLhyphen"/>wedais. Yr hwn ai caffo ſydd yn cael pob peth. Hyn ſydd wir hefyd. Mae ganddi ddechreuad pob peth, ag mae hi yn rheoli pob peth. Os cai di hyn, rwyti yn dy<g ref="char:EOLhyphen"/>fod ir gwreiddyn or hwn y tar<g ref="char:EOLhyphen"/>ddodd pob peth allan, ag yn yr
+<pb n="90" facs="tcp:174172:53"/>
+hwn y maent yn bôd, ag yn hyny yr wyti yn frenin ar holl weithre<g ref="char:EOLhyphen"/>doedd Duw.</p>
+            <p>D. <hi>Fy anwyl Athro. Er dolwg Dangos i mi ymba le mewn dyn y mae hi yn aros?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae ganddi hi ei gorſeddfaingc mewn dyn yn y fann lle nid iw 'r dyn ei hun yn aros ynddo ei hun.</p>
+            <p>D. <hi>Pa le y mae 'r lle hwnnw mewn dyn lie nid iw 'r dyn ei hun yn trigo ynddo.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae hynyn yr enaid a ymro, ddodd iw wreiddyn, lle mae 'r enaid yn marw iw ewyllys ei hu<g ref="char:EOLhyphen"/>nan, heb chwennych mwy ei hu<g ref="char:EOLhyphen"/>nan ond yn vnigyr hyn a chweny<g ref="char:EOLhyphen"/>cho Duw y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddo, ag yno y mae fo yn preſwylio. Canys cimaint or enaid ag y mae 'r hunan ewyllys yn farw iddo ei hunan ynddo, cimaint a hyny o le y mae 'r cariad wedi i ynill ynddo. Am mai lle yr eiſteddodd ei ewyllys ei hunan or <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aen yr awron nid oes yno ddim.
+<pb n="91" facs="tcp:174172:53"/>
+Ag lle i mae dim yno y mae cariad Duw yn vnig yn gweithio.</p>
+            <p>D. <hi>Ond pa fodd y cynhwyſaf fi y cariad yma heb wneuthur fy ewyllys fy hun?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Os ceiſi i oddiwedd yn dy ewyllys dy hun mae yn diangc ymaith oddiwrthyti, Ond os ym<g ref="char:EOLhyphen"/>roddi di dy hunan yn hollawl iddo, yna marw wyt it dy hunan yn dy ewyllys, ag yno cariad a fydd bywyd dy naturiaeth di; ni ladd ef monot ond fe ath fywhâ yn ol ei fywyd ei hun, ag yno byw wyt, nid ith ewyllys dy hun ond iw ewyllys ef, am fod dy ewyllys di yn awr yn ei ewyllys ef, felly yr wyti wedi marw i ti dy hun ond yn byw? Dduw.</p>
+            <p>D. <hi>Beth iw 'r achos fod cyn lleied y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i gael, pan fynnai pawb i fwynhau?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Maent oll yn i geiſio yn y Rhywbeth, ſef yn y dychmygion opiniwnol, yn yr hunan-chwant, ir hwn mae gan bawb agos feddwl
+<pb n="92" facs="tcp:174172:54"/>
+naturiol priodol. Ag er ir cariad i gynnig ei hun iddynt, ni chaiff ddim lle ynddynt, o achos fod y dychymygiad (yr hwn ſydd yn ei hewyllys hwynt ei hunain) wedi i oſod ei hun yn ei le ef. Ag felly, y meddwl bywiog at y chwant ir hunan a fynnai gael cariad Duw iddo ei hun, ond mae'r cariad yn ehedeg ymaith. Canys mae fo yn aros yn unig yn y Dim, am hyny ni fedrant mor dyfod atto.</p>
+            <p>D. <hi>Beth iw ei ſwydd ef yn y Dim?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ei ſwydd ef iw treiddio i ryw<g ref="char:EOLhyphen"/>beth yn ddibaid. Ag os cyferfydd ef a lle mewn rhywbeth yn ſefyll yn llonydd, yno ei ſwydd iw cy<g ref="char:EOLhyphen"/>meryd meddiant yno, ag ymla<g ref="char:EOLhyphen"/>wenychu ynddo, drwy ddiſglair dân y cariad (yn fwy nag y mae'r haul yn gwneuthur yn y byd yma) ag felly ennyn yn ddibaid y tân yn y Rhywbeth, gan i wiſgo allan, ai orchguddio ei hunan ai wres ef.</p>
+            <p>D. <hi>Fy anwyl Athro. Pa fodd y dea<g ref="char:EOLhyphen"/>llaf hyn?</hi>
+            </p>
+            <p>
+               <pb n="93" facs="tcp:174172:54"/>
+               <hi>A.</hi> Os caiff ef gennad i gynneu ynot ti, digei wybod ynot dy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un pa fodd yr yſſa fo yr hen hunan (yr hwn yr wyti yn i alw Myfi) gan lawenychu mor anfeidrol yn dy dan di, fel y byddai well genit o<g ref="char:EOLhyphen"/>ddef cael dy ladd, na myned yn ôl eilwaith at y rhywbeth. Mor fawr hefyd iw ei fflam ef, na âd ef monot er coſtio i ti dy fywyd amſerol, fe â gidath di drwy ei wres i mewn i angau. A phed ait ti i vffern, fe dorrai hwn vffern yn gandryll er dy fwyn di.</p>
+            <p>D. <hi>Fy Meiſtr caredig. Ni ddio<g ref="char:EOLhyphen"/>ddefaf fi i ddim mom rhwyſtro i ond hyny. Pa fodd y cai gyfarfod ar ffordd neſ af at y mawrbeth yma?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Rhodia di llei mae 'r ffordd yn galettaf, a chymer attat yr hyn a wrthyd y byd. Ar peth a wnelo 'r byd na wna di mo hyny. Rhodia di yn groes ir byd ymhob peth ag yno rwyti ar y ffordd neſaf atto.</p>
+            <p>
+               <pb n="94" facs="tcp:174172:55"/>D. <hi>ped fawn i yn mynd yn groes i bob Peth, Rhaid fyddai i mi fod mewn true<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mawr ag aflonyddwch, ag fo am cyfrifid i hefyd yn ddyn ynfyd?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nid wyfi yn peri i ti wneu<g ref="char:EOLhyphen"/>thur niwed i neb, Ond o achos na char y byd ddim ond twyll ag o<g ref="char:EOLhyphen"/>feredd gan rodio mewn gau lwy<g ref="char:EOLhyphen"/>brau drygioni. Am hyny os dydi a wnei ymhob peth yn groes ag yn wrthwyneb i ffyrdd y byd, Rhodia yn vnig yn yr iawn ffordd. Am fod y ffordd vnion yn wrthwyneb i holl ffyrdd y byd. Ond lle yr wyti yn dywedyd y byddit ti felly mewn cur fawr a gofid. Yn ddiwad felly y bydd i ti yn ol y cnawd, a hyn a rydd achlyſur i ti o waſtadol edifeirwch, ag yn y gofid hwnw, rhaid ir cariad ennyn ei dân yn ewyllyſgar. Ag llei rwyti yn am<g ref="char:EOLhyphen"/>mau y cyfrifir di <hi>yn rhyw ledfen o</hi> ddyn ynfyd, Gwir ſydd. Canys ffolineb ir byd iw 'r ffordd i gariad Duw, ond doethineb iw i blant
+<pb n="95" facs="tcp:174172:55"/>
+Duw. Er cynted y canfyddo y byd y tan yma o gariad y mlhant Duw, fe ddywaid mai ffyliaid ydynt allan oi cof. Ond i blant Duw hwn iw 'r tryſſor mwyaf. Mor fawr iw na all vn bywyd i ddatgan, nag vn tafod gimaint a henwi beth iw tân eirias cariad Duw. Diſcleiriach iw nar haul, a melyſach na dim ar awnaed, Mag<g ref="char:EOLhyphen"/>wriaetholach iw nag vn bwyd neu ddiod, a phereiddiach na holl la<g ref="char:EOLhyphen"/>wenydd y byd yma: Pwy bynnag ai caffo ſydd gyfoethoccath nag vn brenin ar y ddayar, a boneddi<g ref="char:EOLhyphen"/>ach nag y gall vn emerodr fod, a grymuſach a chryfach nar holl aw<g ref="char:EOLhyphen"/>durdodau ar nerthoedd.</p>
+            <p>D. <hi>Yna y diſcybl a ofynnodd iw A<g ref="char:EOLhyphen"/>thro ymhellach gan ddywedyd. I ba le y mae 'r enaid yn m yned pan fo 'r corph yn marw pa vn bynnag fo ai cadwedig ai colledig?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ei Athro a atebodd idd Nido, rhaid ir enaid fyned allan: yn vnig
+<pb n="96" facs="tcp:174172:56"/>
+y bywyd marwol ar corph oddi allan ydynt yn i didoli ei hunain oddiwrth yr enaid. Mae 'r nefoedd ag vffern yn yr enaid or blaen. Fel y mae yn ſcrifenedig. Nid iw teyr<g ref="char:EOLhyphen"/>nas Duw yn dyfod wrth ddiſgwi<g ref="char:EOLhyphen"/>liad oddiallan, ag ni ddywedant wele yma, neu wele accw, canys wele, mae teyrnas Duw or tu fewn i chwi. A pha'r vn bynnag ai 'r nef, ai vffern a amlygir yn yr enaid, yn hwnnwy mae fo yn ſefyll.</p>
+            <p>D. <hi>Onid iw 'r enaid yn myned i mewn ir nef neu i vffern fel yr â gwr i mewn i dy, neu fel yr â dyn drwy rym dwll neu ddrws i ryw fyd arall?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nag ydiw. Nid oes dim or fath beth. Canys mae 'r nef ag vffern ymhob mann yn breſenol. Ag nid iw ddim ond troead yr ewyllys naill ai i gariad Duw ai iw ddigofaint, A hyn ſydd yn bod yn y by wyd yma, yn ôl yr hyn a ddywaid St. <hi>Paul. Ein hymware<g ref="char:EOLhyphen"/>ddiod ni ſydd yn y nefoedd. A Chriſt
+<pb n="97" facs="tcp:174172:56"/>
+hefyd a ddywedodd, fy nefaid i a wrandwant fy llais i, ag mi at hadwen<g ref="char:EOLunhyphen"/>a nhwy am canlynant, ag yr wyf yn rhoi iddynt fywyd tragwyddol, ag ni chaiff neb ei tynnu hwynt allan om llaw i.</hi>
+            </p>
+            <p>D. <hi>Pa fodd y mae mynediad yr ewyllys ir nef neu vffern yn dyfod fel hyn i ben?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pan fo gwreiddyn yr ewyllys yn i roddi ei han i fynu i Dduw, yna mae fo yn ſuddo i lawr oddi<g ref="char:EOLhyphen"/>wrtho ei hunan tu hwnt i bob lle a gwaelod; yna mae Duw yn vnig yn ymddangos yn gweithio ag yn ewyllyſio ynddo, ag yno mae 'r dyn yn ddiddim iddo ei hun, ſef iw ewyllys ei hunan, ag felly mae Duw yn gweithio, ag yn ewyllyſio ynddo ef; A Duw ſydd yn aros yn yr ewyllys ymroddgar yma, a thrwy hvn y mae 'r enaid yn cael i ſancteiddio, ag felly yn dyfod ir orphwysfa baradwyſaidd. Heb law hyn, pan fo 'r corph yn farw,
+<pb n="98" facs="tcp:174172:57"/>
+ma e 'r enaid wedi i dreiddio drwy<g ref="char:EOLhyphen"/>ddo droſto oll a chariad Duw, ag wedi i gwbl oleuo a goleuni Duw, fel y mae 'r Tân yn purboe<g ref="char:EOLhyphen"/>thi yr h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yarn, ag megis yn i ennyn i ddiſgleirio, a thrwy hyn mae yn colli ei dywyllwch. Ag dyma law Chriſt llei mae cariad Duw yn cwblbreſwylio yr enaid troſto, drwy fod yn olauddiſclair ag yn fywyd newydd ynddo. Ag yno mae fo yn y nef yn Deml ir ysbryd glan, <hi>ie efe iw 'r nef yn yr hon y mae Duw ei hun yn aros.</hi> Ond am yr enaid drwg, Ni fyn ef yn amſer y bywd yma mor myned i mewn ir ymroddiad nefol allan oi ewyllys ei hun, ond ymlaen yr â fo yn ddi<g ref="char:EOLhyphen"/>baid yn ei chwant ai ddichell ei hun yn ewyllys y diafol. Nid iw yn derb yn iddo ei hun ddim ond drygioni celwyddau balchder cy<g ref="char:EOLhyphen"/>b ydddod cenfigen a digter, gan ganiadhau ei ewyllys iddynt, ag felly yr oferedd yma hefyd ſydd
+<pb n="99" facs="tcp:174172:57"/>
+yn amlwg-ymddangos ag yn gwei<g ref="char:EOLhyphen"/>thio yn yr enaid, ag yn i drywanu, ag yn myned drwyddo fel y trei<g ref="char:EOLhyphen"/>ddia 'r tân drwy 'r hayarn poeth, ag ni ddichon yr enaid yma mewn vn modd ddyfod ir orphwysfa nefol, am fod digllonedd Duw yn amlwg ynddo. Gida hyn. Pan ymadawo y corph ar enaid yma, yna y mae triſtwch tragwyddol ag anobaith yn dechrau, canys dirnad i mae a gwybod nad iw ond rhyw ffieidd<g ref="char:EOLhyphen"/>drapoenus, ag mae arno gywilydd ymdrech i fyned i mewn i Dduw yn ei frwnt-ewyllys, Ag ni ddichon ef. Canys fe ai caethiwyd yn y digofaint, ie llid chwerw iw efei hunan, ag a hwn fe a ymgaeodd i fynu, drwy ei ddiffaith ewyllys yr hwn a genhedlodd ef ynddo ei hun. A chan nad iw goleuni Duw yn tewynnu ynddo, nai gariad yn i gyffwrdd ef, tywyllwch mawr iw 'r enaid ei hun, a gofidus dra<g ref="char:EOLhyphen"/>llodus anian danllyd, yn dwyn
+<pb n="100" facs="tcp:174172:58"/>
+vffern ynddo ei hun, heb allel gweled goleuni Duw. Fel hyn y mae fo yn aros ynddo ei hun yn vffern, ag nid rhaid iddo fyned i mewn iddi, am mai pa le bynag y bo mae fo yn vffern. Ag er iddo i daflu ei hun lawer can mil o fill<g ref="char:EOLhyphen"/>dyroedd or fan lle i mae, etto mae fo yno yn yr vn anian (tywyllwch na<g ref="char:EOLhyphen"/>tur) ag yr oedd ef or blaen.</p>
+            <p>D. <hi>Pa fodd gan hyny y mae 'r enaid ſanctaidd yn y bywyd hw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heb weled yn eglur mor goleuni hwnw ar mawr lawenydd, ar enaid anuwiol hefyd heb ymglywed ar vffern, pan iw 'r ddau mewn dyn, ag vn or ddau yn rhaid iddo weithio ynddo yn amlwg yn y byd yma?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae teyrnas nefoedd yn y Sein<g ref="char:EOLhyphen"/>ctiau yn gweithio, ag yn amlwg iw ffydd hwynt, mae nhw yn ymgly<g ref="char:EOLhyphen"/>wed a chariad Duw yn ei ffydd, drwy 'r hwn y mae 'r ewyllys yn i roddi i hun i fynu i Dduw. ond mae 'r bywyd naturiol wedi i amgylchu
+<pb n="101" facs="tcp:174172:58"/>
+a chig a gwaed, ag yngroeſineb di<g ref="char:EOLhyphen"/>gofaint Duw wedi i gylchynu ag oferchwant y byd yma, yr hwn yn waſtadol ſy 'n treiddio drwy 'r bywyd marwol oddiallan, lle i mae 'r byd or naill dû, ar cythrael or tu arall, ag ar y trydydd melldith an<g ref="char:EOLhyphen"/>fodlont wydd Duw yn y cnawd ar gwaed yn cwbldrywanu, yn nithio ag yn chwalu 'r bywyd. Ag wrth hyn mae 'r enaid mewn poen a thrallod yn fynych pan fo vffern felly yn goſod arno, ac yn ceiſio ymddangos ynddo. Ond mae 'r enaid mewn gobaith or gras nefol yn ſuddo i lawr, ag yn ſefyll fel rhoſſyn teg ynghanol drain, nes i deyrnas y byd yma gwympo oddi<g ref="char:EOLhyphen"/>wrtho fo ym marwolaeth y corph. Ag yno yn gyntaf y mae 'r enaid yn wir<g ref="char:EOLhyphen"/>ddigon-amlwg ynghariad Duw, heb ddim iw rwyſtro mwy. Ond tra parhatho r bywyd hwn rhaid ir enaid yn y byd rodio gida Chriſt, ag yno Chriſt ai gwared
+<pb n="102" facs="tcp:174172:59"/>
+allan oi vffern ei hun, drwy i gwbl<g ref="char:EOLhyphen"/>dreiddio ai ſerch, a ſefyll gidag ef yn vffern a newid ei vffern yn ne<g ref="char:EOLhyphen"/>foedd iddo.</p>
+            <p>Ond lle yr wyti yn gofyn. Pam nad iw 'r drygionus yn ymglywed ag vffern yn y bywyd hwn. Dyma 'r atteb. Mae fo yn ymglywed a hi yn ei ffals gydwybod ddrwg, ond nid iw yn yſtyried nag yn deall, Am i fod etto yn mwynhau thyw wagedd daiarol gida 'r hwn y mae yn ymſerchu, ag yn yr hwn i mae fo yn cymeryd pleſer a difyrr<g ref="char:EOLhyphen"/>wch. Hefyd mae 'r bywyd natu<g ref="char:EOLhyphen"/>riol yn cael etto oleuni y natur oddiallan, ag felly ni ellir gweled y boen ar gnofa. Ond pan fo marw, 'r corph, ni all yr enaid fwynhau yn hwy mor fath bleſer amſerol, a goleuni 'r byd oddiallan hefyd a ddiffoddwyd iddo. Ag yno ſefyll i mae mewn tragwyddol newyn a ſyched am yr oferedd yr oedd ef yn i hoffi yn y byd yma, er hyny
+<pb n="103" facs="tcp:174172:59"/>
+ni ddichon ef gyrhaeddyd dim, ond y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ewyllys ffals yr hwn a brintiodd ef ynddo ei hun, or hwn y cafodd ef ormod yn y bywyd yma, ag er hyny nid oedd fodlon, Ond y pryd hwnw fe gaiff cyn lleied, yr hyn a wna iddo fod mewn tragwyddol newyn a ſy<g ref="char:EOLhyphen"/>ched am oferedd, drygioni, a cho<g ref="char:EOLhyphen"/>egni brwnt, fe fynnai wneuthur ychwaneg o ddrwg bes galle, ond nid oes ganddo ddim drwy 'r hwn y dichon i gyflawni, am hyny mae fo yn i weithredu fo yn vnig arno ei hun. Ag ni ellir llawn-amlygu ynddo mor newyn ar ſyched vffer<g ref="char:EOLhyphen"/>nol yma, nes marw or corph, gida 'r hwn y bu 'r enaid yn chwarae 'r anllad mewn trythyllwch, yr hwn gorph hefyd a fu yn gweini ir enaid yr hyn yr oedd yn i chwantu</p>
+            <p>D. <hi>Gan fod y nefoedd ag vffern yn ymryſon ynom ni yn y bywyd hwn, a Duw hefyd mor agos a hyn attom ni, Pa le y mae 'r Angelion ar cy<g ref="char:EOLhyphen"/>threuliaid
+<pb n="104" facs="tcp:174172:60"/>
+yn aros?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Lle nid wyti dy hun a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ewy<g ref="char:EOLhyphen"/>llys dy hunan yn aros, yno y mae yr angelion yn aros gidath di ymhob man droſodd oll. Ond lle yr wyti dy hunan yn dy ewyllys dy hunan yn aros, yno y mae 'r cy<g ref="char:EOLhyphen"/>threul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid yn aros gidath diymhob He droſodd oll.</p>
+            <p>D. <hi>Nid myfi yn deall mo hyn?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Llei bo ewyllys Duw yn ym<g ref="char:EOLhyphen"/>ewyllyſio mewn creadur yno y mae Duw yn amlwg, ag yn yr am lygiad hwnw y mae 'r Angylion yn aros. Ond llei bo Duw heb ewyllyſio mewn peth gidag ewy<g ref="char:EOLhyphen"/>Hys y peth ei hunan, nid iw Duw yn ymddangos yno, ond yn aros ynddo ei hun heb gydweithiad y peth. Yn y peth hwnnw mae ei ewyllys ei hun heb ewyllys Duw, ag yno yr erys y cythrael a phob peth ar ſydd heb Dduw.</p>
+            <p>D. <hi>Par y bellder gan hyny ſydd rhwng y nef ag vffern?</hi>
+            </p>
+            <p>
+               <pb n="105" facs="tcp:174172:60"/>
+               <hi>A.</hi> Maent cyn belled ag ydiw 'r dydd oddiwrth y nos, neu rywbeth oddiwrth ddim. Mae 'r naill yn y llall. Ag maent yn peri llawenydd a thriſtwch y naill iw gilydd. Mae 'r nefoedd drwy 'r holl fyd ag allan or byd dros y cyfan, heb i rhannu nai chynnwys mewn lle, yn gweithio drwy 'r amlygiad nefol. Ond yn vnig ynddi ei hun, ag yn yr hyn ſydd yn dyfod i mewn iddi, neu yn yr hyn y mae hi yn cael ymddangos, ag yno y datcuddir Duw. Canys n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d iw'r nefoedd ddim ond amlygiad yr vn tragwy<g ref="char:EOLhyphen"/>ddol, yn yr hwn y mae pob peth yn gweithio, ag yn ewyllyſio mewn llonyddwch cariad. Ag hefyd mae vffern drwy 'r holl fyd yn aros ag yn gweithio hefyd, ond ynddi ei hunan, ag yn yr hyn y mae yn amlwg ſy lfaen vffern, ſef yn yr hunan, ag yn yr ewyllys ffals drygionus. Yn y byd gweledig yma, mae 'r ddau, ſef nef ag vffern.
+<pb n="106" facs="tcp:174172:61"/>
+Dyn yn ol ei fywyd amſerol ſydd yn vn g or byd gweledig, Ag am hyny tra parhatho amſer y by wyd yma nid iw ef yn canfod mor byd ysbrydol. Am fod y byd oddiallan ai ſylwedd dywyll, fel cauad ar y byd ysbrydol, fel y mae 'r enaid wedi i guddio yn y corph. Ond pan fo marw y dyn oddiallan yno y byd ysbrydol a amlygir ir enaid naill ai yn y goleuni tragwyddol gida 'r angylion ſanctaidd, neu yn y tywyllwch tragwyddol gida 'r cy<g ref="char:EOLhyphen"/>threuliaid.</p>
+            <p>D. <hi>Beth iw Angel, neu enaid dyn, fel yr amlygid hwynt fel, naill ai ynghariad Duw ai yn ei ddigter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nhw ddaerhant oll or vn gwreiddyn, fel planhigyn ar y bôa ardderchog or ewyllys nefol, wedi tarddu allan or Gair Duwiol, megis drych-oly giad ir cariad nefol i ed<g ref="char:EOLhyphen"/>rych ynddo, Nhwy a ddaethant ollan o lawr tragwyddoldeb, or fan y mae goleuni a thywyllwch yn
+<pb n="107" facs="tcp:174172:61"/>
+ffrydio allan, ſef tywyllwch yr hwn iw croeſawiad yr Hunan<g ref="char:EOLhyphen"/>chwant, a Goleuni yr hwn iw ewy<g ref="char:EOLhyphen"/>llyſio yr vn peth gida Duw, ag yno y mae cariad Duw yn gweithio. Ond wrth dderbyn yr Hunan yn ewyllys yr enaid, mae ewyllys Duw yn gweithio mewn poen, ag yn dywyllwch fel yr adnabydder y goleuni. Nid iw 'r nef ag vffern ddim ond amlygiad yr ewyllys nefol, naill ai yn y goleuni ai yn y ty wyllwch, yn ol cyncddfau y byd ysbrydol.</p>
+            <p>D. <hi>Beth wrth hyny ydiw corph dyn?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Y byd gweledig iw. Delw a ſylwedd o bob peth or byd. Ag ymddangoſiad iw 'r byd gweledig or byd ysbrydol oddifewn, allan or goleuni tragwyddol, ag allan or tywyllwch tragwyddol, allan or gwenad ar crydeddiad ysbrydol, a golygyn a chyffely biaeth tragwy<g ref="char:EOLhyphen"/>ddoldeb iw, drwy 'r hwn y mae
+<pb n="108" facs="tcp:174172:62"/>
+trag<g ref="char:EOLhyphen"/>wyddoldeb wedi i dangos ei hun, llei mae 'r hunan ewyllys, ar ymroddgar ewyllys (drwg a da) y mill yn gweithio wrth y llall. Ar fath ſylwedd a hwnw hefyd iw Dyn oddiallan. Canys fe greawdd Duw ddyn or byd oddiallan, ag a anadlodd i mewn iddo fo y byd ysbrydol oddifewn, er mwyn iddo gael enaid a bywyd deallus. Ag am hyny ymmhethau 'r byd oddiallan fe all dyn dderbyn a gwneuthur drwg a da.</p>
+            <p>D. <hi>Beth a ſydd ar ol y byd yma, pan ddarfyddo am bob peth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Fe dderfydd yn vnig am y ſylwedd ddefnyddiol, ſef y pedair element, yr haul ar lloer ar Ser, Ag yna y byd oddifewn a ymddengys yn dra amlwg, yn weledig. Ond beth bynag ar a wnaed drwy ys<g ref="char:EOLhyphen"/>bryd dyn yn yr amſerodfa yma, pa vn bynag ai da ai drwg (meddaf) yno pob gwaith ai didolia ei hunan mewn modd ysbrydol, naill ai ir go<g ref="char:EOLhyphen"/>lau,
+<pb n="109" facs="tcp:174172:62"/>
+ai ir tywyll tragwyddol. Canys yr hyn a anwyd o bob vn or ddau ewyllys ſydd eilwaith yn trywanu, ag yn mynd i mewn ir hyn ſydd de big iddo ei hunan. Ag yno y tywy<g ref="char:EOLhyphen"/>llwch a elwir vffern (Inffern ſef tragwyddol anghofio pob daioni, Ar goleuni a elwir teyrnas Dduw, a hon iw 'r hyfrydwch tragwyddol, ar moliant diddiwedd yn y Sein<g ref="char:EOLhyphen"/>ctiau, i bod nhw wedi cael i gwared oddiwrth y boen erchyll. Hefyd y farn olaf iw cynneuad tân cariad a digofaint Duw, yn y rhain y der<g ref="char:EOLhyphen"/>fydd am ddefnydd pob ſylwedd, A pob vn or ddau dan a dynn atto ei hunan ei eiddo, ſef y ſylwedd ſydd debig iddo: hyny iw, Tân cariad Duw a dynn iddo bob peth ar a an wyd ynghariad Duw, yn yr hwn hefyd fe ennyn fel y llyſg cariad, ag fe ai hymrydd ei hun ir ſylwedd yma. Ond y boen a dynn iddo ei hun bob peth ar a wnaed yn nigofaint Duw, yn y ty<g ref="char:EOLhyphen"/>wyllwch
+<pb n="110" facs="tcp:174172:63"/>
+gan ddifa y ffals-ſylwedd, ag yno ni bydd dim ar yr ewyllys gofidus yn ei ffurf ai ffigur ai ddelw ei hun.</p>
+            <p>D. <hi>I'm mha ſylmedd, ag ar ba ddelw y cyfyd ein cyrph ni i fynu?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Fe ai heuir yn gorph natu<g ref="char:EOLhyphen"/>riol, trwſgl, elementaidd, yr hwn yn y bywyd yma ſydd debig ir elementau. Ag yn y corph fwba<g ref="char:EOLhyphen"/>chlyd yma mae 'r grym ar rhin<g ref="char:EOLhyphen"/>wedd guddiedig. Fel yn y ddayar mae rhinwedd buredig ddaionus, yr hon ſydd debig ir haul, <hi>ar vn iw ar haul,</hi> yr hon hefyd yn nechre<g ref="char:EOLhyphen"/>uad amſer a darddodd ag a ddaeth allan or grym ar nefol rinwedd, or hon y derbyniwyd holl rinwedd dda 'r corph. Y rhinwedd dda yma yn y corph marwol a ddaw eil waith, ag a ſydd byw byth mewn math ar gyneddf ſylweddol ddiſ<g ref="char:EOLhyphen"/>clair fel griſial, mewn cnawd a gwaed ysbrydol. Fel y ceiff hefyd rinwedd y ddayar, pan wneler y
+<pb n="111" facs="tcp:174172:63"/>
+dda yar hefyd fel griſial, drwy ddiſ<g ref="char:EOLhyphen"/>gleirio or golau nefol ymhob peth ſydd a bod ganddo. Ag fel y di<g ref="char:EOLhyphen"/>fethir y ddayaren dewlyd, ag ni ddychwel hi, felly y difeir corph tewlyd dyn, ag ni chaiff hwnw fyw byth. Ond rhaid i bob peth ym<g ref="char:EOLhyphen"/>ddangos o flaen y farn, ag yn y farn gymryd i didoli drwy dan, ie y ddau meddaf, ſef y ddayaren, ag hefyd llwch a lludw cyrpa dynion. Canys pan gynhyrfo Duw vn<g ref="char:EOLhyphen"/>waith y byd ysbrydol, pob ysbryd a dynn ei ſy lwedd ysbrydol eihun atto ei hunan. Ysbryd neu enaid da a dynn atto ei ſylwedd dda, ar vn drwg, ſylwedd ddrwg. Ond rhaid i ni yma ddeall wrth hyn, y fath rym a rhinwedd ſylweddol ddef<g ref="char:EOLhyphen"/>nyddiol, ſylwedd yr hwn nid iw ond vnig rinwedd, tebig ir defnv<g ref="char:EOLhyphen"/>ddiol liwiad, yr hwn y mae ynddo yr holl luniau lliwiau a rhinwe<g ref="char:EOLhyphen"/>ddau, ag er hyny yn ddiſclair. Te<g ref="char:EOLhyphen"/>wychiad yr hwn a ddifethwyd ym<g ref="char:EOLhyphen"/>hob peth.</p>
+            <p>
+               <pb n="112" facs="tcp:174172:64"/>D. <hi>Oni chawn ni adgyfodi gida n cyrph gweledig, a byw ynddynt yn dragwyddol?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pan ddarffo am y byd gwe<g ref="char:EOLhyphen"/>ledig, yna pob peth ar a ddaeth o hono, ag oeddynt bethau oddiallan a f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thant hefyd gidag ef. Ni ade<g ref="char:EOLhyphen"/>wir or byd ddim ar yr ol, ond y natur ar ffurf nefol riſialaidd, ag felly, o gorph dyn hefyd ni adewir dim ond y ddayar ysbrydol, canys fe ſydd dyn y pryd hwnnw yn gwbl-debig ir byd ysbrydol yr hwn ſydd guddiedig etto.</p>
+            <p>
+               <hi>D. A ſydd hefyd, wr a gwraig, a phlant a cheraint yn y bywyd ysbr y dol, neu a ymg ymdeithiant y naill ar llall fel y maent yn y bywyd yma?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pam yr wyti mor gnawdol dy feddwl? Ni bydd na gwr na gwraig, ond nhw fyddant oll fel angylion Duw, ſef gwyryfiaid gwrawl. Ni bydd yno na mab na merch, na brawd na chwaer. Ond y cwbl or vn rhy w, nid ynt oll ond
+<pb n="113" facs="tcp:174172:64"/>
+vn ynghriſt (fel mai vn iw 'r pren ai ganghennau:) ag er hyny amryw greaduriaid ſydd, ond Duw oll yn oll. Fe ſydd yn ſicr bob vn yno yn gwybod yn ysbrydol beth a fu, a be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a wnaeth ef, ond ni bydd dim meddiannu, nag ewyllys i fwynhau y fath bethau ond hyny.</p>
+            <p>D. <hi>A gant hwy i gid y llawenydd tragwyddol ar gogoniant yn yr vn modd, ar meſur?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae 'r ſcythur yn dywedyd. Fel y mae 'r bobl felly y mae ei Duw hwynt. Hefyd hi a ddywed. <hi>Ar glan y gwnei lendid, ag ar cyndyn yr ymgyndynni.</hi> Ag mae St.<hi>Paul</hi> yn dywedyd, <hi>Yn yr adgyfodiad nhw y a ragorant ar i gilydd,</hi> Fel yr haul ar lleuad ar Ser. Am hyny Gwybydd y caiff yr holl rai gwynfydedig ſicr fwynhau y ne<g ref="char:EOLhyphen"/>fol weithrediad, ond fe fydd llawer o ragor yn ei rhinwedd ai diſgleir<g ref="char:EOLhyphen"/>deb, pob vn yn ol yr hyn a gyrhae<g ref="char:EOLhyphen"/>ddodd yn y byd yma drwy rym a
+<pb n="114" facs="tcp:174172:65"/>
+rhinwedd yn ei boenus lafur. Ca<g ref="char:EOLhyphen"/>nys llafurus weithrediad y creadur yn y bywyd hwn iw agoriad a chenhedliad y duwiol rym, drwy 'r hwn y mae nerth Duw yn ym<g ref="char:EOLhyphen"/>yſgog ag yn gweithio. Yr awron y rhai a weithiaſont gida Chriſt yn y bywyd yma ag nid yn chwant y cnawd a gant awdurdod fawr a gogoniant rhagorol ynddynt ag arnynt. Ond am eraill, y rhai yn vnig a ddiſgwiliaſont ag a bwyſa<g ref="char:EOLhyphen"/>ſont ar gyfryngdod a haeddediga<g ref="char:EOLhyphen"/>eth Chriſt oddiallan, ag yn y cy<g ref="char:EOLhyphen"/>famſer a waſanaethaſont ei bol yn lle Duw, ag er hyny a ddychwe<g ref="char:EOLhyphen"/>lant ont ag a fwynhant ras, ni chaiff y rhain (meddaf) gimaint o rin<g ref="char:EOLhyphen"/>wedd ag enwogrwydd, Eglur iw y bydd cimaint o ragoriaeth rhy<g ref="char:EOLhyphen"/>ngddynt ag y ſydd rhwng yr haul ar lleuad ar ſer, neu ſydd rhwng blodau 'r maes yn ei tegwch ai rhinwedd ai gallu.</p>
+            <p>D. <hi>Pa fodd y bernir y byd, a thrwy bwy?</hi>
+            </p>
+            <p>
+               <pb n="115" facs="tcp:174172:65"/>
+               <hi>A.</hi> Drwy yſgogiad a chynhyrfiad y Duwdod ym Mherſon ag yn ysbryd Chriſt, Chriſt drwy Air Duw yr hwn a wnaed yn ddyn, a ddidola oddiwrtho ei hun bob peth ar nad iw yn perthyn i Ghriſt; Ag efe a gwbl amlyga ei deyrnas ei hun yn y fan ar lle y mae 'r byd yma yr awron ynddo. Canys y cynhyr<g ref="char:EOLhyphen"/>fiad gwahanus a weithia dros y cy<g ref="char:EOLhyphen"/>fan drwy bob peth ar unwaith.</p>
+            <p>D. <hi>Pan wneler y lle y mae 'r byd yma ynddo yn deyrnas i Ghriſt, a phan dderchafer hi, i ba le y teflir y cy<g ref="char:EOLhyphen"/>threuliaid ar holl eneidiau damnedig? A deflir hwynt allan o le 'r byd yma? Neu ai or tu allan i le 'r byd yma y dengys Chriſt ei Arglwyddiaeth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Fe fydd uffern yn lle 'r byd yma ymhob man, ond ar gûdd i deyrnas nefoedd, fel y mae 'r nos yn guddiedig yn y dydd, y goleuni a dywynna yn dragywydd yn y tywyllwch, ond ni all y tywyllwch moi gynnwys ef. Ag fel hyn y go<g ref="char:EOLhyphen"/>leuni
+<pb n="116" facs="tcp:174172:66"/>
+iw teyrnas Chriſt, ar ty wy<g ref="char:EOLhyphen"/>llwch iw vffern, lle yr erys y cy<g ref="char:EOLhyphen"/>threuliaid ar anuwioliaid, ag felly cant i gwasgu i lawr gan deyrnas Chriſt, ai gweuthur yn droed faingc ag yn ddirmyg.</p>
+            <p>D. <hi>Pa fodd y dygir yr holl bob<g ref="char:EOLhyphen"/>loedd ar minteroedd ynghyd iw bar<g ref="char:EOLhyphen"/>nu?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Gair tragwyddol Dvw (allan or hwn y daeth pob bywyd ysbry<g ref="char:EOLhyphen"/>dol creaduraidd) ai cynhyrfa ei hu<g ref="char:EOLhyphen"/>nan yr awr honno yn ol y cariad ar digofaint ymhob bywyd ar a ddaeth allan o dragwyddoldeb, ag a dynn bob creadur o flaen maingc Chriſt iw farnu drwy 'r cynhyrfiad yma or Gair. Y bywyd a ddatcu<g ref="char:EOLhyphen"/>ddir yn ei holl weithredoedd, a phob vn a gais ag a gaiff ei farn ai ſentens ynddo ei hunan. Obledig wrth ymadawiad y corph fe gy<g ref="char:EOLhyphen"/>hoeddir y farn yn ddiattreg yn yr enaid. Nid iw 'r farn olaf dd m ond dymchweliad y corph ysbrydol
+<pb n="117" facs="tcp:174172:66"/>
+yn ol, a gwahaniad y byd, pan ddidoler y drwg oddiwrth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yn ſylwedd y byd ag yn y corph, a phan elo pob peth i mewn iw drigle neillduol dragwyddol ei hun, Ag amlygiad iw o ddirgelwch Duw ymhob ſylwedd ag ymhob bywyd.</p>
+            <p>D. <hi>Pa fodd y rhoir y farn?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yſtyria eiriau Chriſt yma. Efe a ddywed wrth y rhai ar ei dde<g ref="char:EOLhyphen"/>heulaw. Deuwch chwi fendigedi<g ref="char:EOLhyphen"/>gion fy nhad, etifeddwch y deyrnas a baratowyd i chwi er ſeliad y byd. Canys bum newynog a chwi a roeſoch i mi fwyd. Bu arnaf ſyched a rhoeſoch i mi ddiod. Bum ddi<g ref="char:EOLhyphen"/>eithr a dygaſoch fi gida chwi, Noeth a dilladaſoch fi. Bum glaf ag ymwelſoch a mi. Bum ynghar<g ref="char:EOLhyphen"/>char a daethoch attaf. Yna yr ettyb y rhai cyfiawn iddo, gan ddywedyd. Arglwydd Pa bryd ith welſom yn newynog ag <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th borthaſom? Neu yn ſychedig ag
+<pb n="118" facs="tcp:174172:67"/>
+y rhoeſom i ti ddiod ? a pha bryd ith <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>om yn ddieithr ag ith ddygaſom gida ni? neu yn noeth ag ith ddilladaſom? a pha bryd ith welſom yn glaf neu 'yngharchar ag y daethom attat? Ar Brenin a ettyb ag a ddywaid wrthynt, yn gimaint ai wneuthur o honoch i vn or rhai hyn fy mrodyr lleiaf, i mi y gwnaethoch. Ag wrth yr anu<g ref="char:EOLhyphen"/>wiol ar ei law aſſwy y dywed ef. Ewch oddiwrthyf rai melldigedig ir tan tragwyddol, yr hwn a bara<g ref="char:EOLhyphen"/>towyd i ddiafol ag iw angelion. Canys bum newynog a ſychedig, bumddieithr a noeth a chlaf ag yn<g ref="char:EOLhyphen"/>gharchar, ag ni weinaſoch i mi. Yna yr attebant hwythau iddo ef, gan ddywedyd. Pa bryd y gwelſom di fel hyn ag ni weinaſom i ti? yna 'r ettyb efiddynt. Yn wir meddaf i chwi. Yn gimaint ag nas gwnae<g ref="char:EOLhyphen"/>thoch ir vn or rhai lleiaf hyn nis gwnaethoch i minneu. Ar rhai hyn <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ant i goſpedigaeth dragwyddol,
+<pb n="119" facs="tcp:174172:67"/>
+ond y rhai cyfiawn i fywyd tragw<g ref="char:EOLhyphen"/>yddol.</p>
+            <p>D. <hi>Fy Athro tirion. Adolwg dy<g ref="char:EOLhyphen"/>waid i mi pam y mae Chriſt yn dy<g ref="char:EOLhyphen"/>wedyd yr hyn a wnaethochi ir lleiaf or rhain chwi ai gwnaethoch i mi. Ar hyn ni wnaethoch iddyut hwy ni wnaethech chwai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h i minuau a pha fodd y mae dyn yn gwneuthur hyn i Ghriſt felly, fel y gwnai ef iddo i hunan.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae Chriſt yn gwir breſwy<g ref="char:EOLhyphen"/>lio yn ſylweddol yn ffydd y rhai ſydd yn i rhoi ei hunain i fynu iddo ef yn hollhawl; Ag mae ef yn rhoddi iddynt ei gnawd yn fwyd, ai waed yn ddiod, ag felly yn meddiannu gwreiddyn ei ffydd hwynt yn ol y dyn oddifewn. Ag am hyny y gelwir Chriſtion yn gangen or winwydden Chriſt, ag yn Ghriſtion, am fod Chriſt yn aros yn y ſbrydol ynddo ef, A pha beth bynnag a wnelo dyn ir cyfryw Ghriſtion yn ei anghenrheidiau
+<pb n="120" facs="tcp:174172:68"/>
+corphorol, mae fo yn gwneuthur hyny i Ghriſt ei hun, yr hwn ſydd yn aros ynddo ef. Oblegid nid i eiddo ei hun iw 'r fath Ghriſtion a hwnw, ond vn wedi ymroddi yn gwbl i Ghriſt (fel meddiant prio<g ref="char:EOLhyphen"/>dol iddo) ag am hyny i Ghriſt ei hunan y gwneir y peth. Ag hefyd, am hyny pa rai bynnag a dynnant yn ol ei dwylaw oddiwrth y cyfryw Ghriſtion gwael anghenus, gan eſceuluſo gweini iddo yn ei anghenrheidiau, maent yn gwthio Chriſt ymaith oddiwrthynt, ag yn i ddirmygu yn ei aelodau. Pan ofynno rhyw ddynan tlawd ſydd yn perthyn i Ghriſt ryw beth genit ti, a thithau yn i naccâu fo yn ei angen, dyna di wedi naccâu Chriſt ei hunan. A pha niwed bynnag a wnelo dyn ir cyfryw Ghriſtion, mae yn i wneuthur i Ghriſt ei hunan. Pan fo rhai yn gwatwar, yn dibriſio, yn cablu, yn gwrthod neu yn gwthio oddiwrthynt y
+<pb n="121" facs="tcp:174172:68"/>
+cyf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yw vn, maent yn gwneuthur hyn oll i Chriſt ei hunan. Ond yr hwn ai derbynio ef, ag a rotho iddo fwyd a diod, gan i ddilladu ai helpu yn ei anghenion, mae yn i wneu<g ref="char:EOLhyphen"/>thur i Ghriſt ei hunan, ag i aelodau ei gorph ef ei hun. Je ymmhellach. Mae fo (os Chriſtion iw) yn i wneuthur iddo ei hunan. Canys vn ydym ni ynghriſt, fel mai vn iw 'r pren ai ganghennau.</p>
+            <p>D. <hi>Pa fodd wrth hyny ar ddydd y farn honno y ſaif y rheini <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ydd yn arteithio ag yn poeni y tlawd ar gofi<g ref="char:EOLhyphen"/>dus? ag yn dwyn oddiarno chwys ei wyneb, gan i gymell a pheri drwy nerth iddo bly<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u iw hewyllys hwynt, gan i gyfrif yn faingc draed iddynt, yn vnig er mwyn iddynt hwy gael arglwyddiaethu a gwirio chwys a llafur a phoen y tlawd ar ei trithy<g ref="char:EOLhyphen"/>llwch ai balchd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ai gwagagoniant ei hunain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Maent yn gwneuthur hyn i Ghriſt ei hunan, ar hyn y maent yn
+<pb n="122" facs="tcp:174172:69"/>
+i weithredu a berthyn iw ſentens ai farn dôſt ef. Oblegid wrth wneuthur felly, maent yn cymryd gafael ffyrnig ar Ghriſt iw ddi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>tha, wrth i erlid ef yn ei aelodau. Ag heb law hyny, maent yn helpu diafol i helaethu ei deyrnas, wrth i gwaſgu ai cymmell maent yn tynnu 'r tlawd oddiwrth Ghriſt, ag yn peri iddo geiſio neu gymryd rhyw ffordd goeg anghyfreithlon i lenwi i fol. Je mae nhwy yn gwneuthur yr vn gwaith ag y mae diafol i hunan, yr hwn yn ddibaid ſydd yn gwrthwynebu teyrnas Chriſt, yr hon ſydd mewn cariad, ac am y rhain i gyd, oni thrôant at Ghriſt ai holl galonnau, a gweini iddo, rhaid iddynt fyned i dân vffem, lle nid oes dim ond y fath hunan diffaith ag a arferaſant yn erbyn yr anghenus.</p>
+            <p>D. <hi>Ond am y rhai ſydd yn ymry<g ref="char:EOLhyphen"/>ſon ynghylch teyrnas Chriſt, yn erlid, yn eywilyddio, yn enllibio, ag yn cablu
+<pb n="123" facs="tcp:174172:69"/>
+y naid llall o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> phlegid, Pa beth a ddaw o honynt hwy a pha fodd yr ymgyn<g ref="char:EOLhyphen"/>haliant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yr holl rai hyny ynt etto heb adnabod Chriſt, ag nid ydynt ond ffigur neu gyffelybiaeth or nef ag vffern yn ymladd ai gilydd am y fuddygoliaeth. Nid iw 'r holl ffrommi a chwyddo a balchder y rhai ynt yn peri ymrafael ynghylch opiniwnau ddim ond Delw yr Hunan. A phwy bynnag ſydd heb ffydd ag iſelder, ag heb fod yn yſbryd Chriſt yr hwn iw 'r car<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, fe ai harfogwyd ef yn vnig a digter Duw, a gyrru ymlaen y mae fo fuddygoliaeth yr hunan delwaidd, ſef teyrnas y tywyllywch a digo<g ref="char:EOLhyphen"/>faint Duw. Canys ar ddydd y farn fe roddir pob hunan ir tywyllwch, ai holl ymryſonau difudd hwynt, yn y rhai y maent nid yn ceiſio cariad perffaith ond yn vnig yr Hunan (yr hwn iw ei delw)fel y gallont ymffroſtio yn ei hopiniwnau
+<pb n="124" facs="tcp:174172:70"/>
+a chyffroi tywyſogion i ryfela dros yr opiniwnau diles gweigion rhei<g ref="char:EOLhyphen"/>ni, ag felly er mwyn y delwau hyn maent yn anrheithio gwledydd, ag yn i difrodi, yr holl fath bethau a berthynant ir farn yr hon a ddi<g ref="char:EOLhyphen"/>dola y gau oddiwrth y gwir, ag yno y gwneir pen am yr holl opi<g ref="char:EOLhyphen"/>niwnau a delwau 'r meddwl, a holl blant Duw a rodiant ynghariad Chriſt ag yntau ynom ni. Pawb yn amſer einioes y byd yma ar nad ydynt wreſog yn yſbryd Chriſt, ag yn chwennych yn vnig berffeithio cariad, ond yn hytrach yn ceiſio ei bûdd ei hunain drwy ymbleidio; or diafol y maent oll, ag i bwll y tywyllwch y maent yn perthyn, ag oddiwrth Ghriſt y gwahenir hw<g ref="char:EOLhyphen"/>ynt. Oblegid mae pawb ar ſydd yn y nefoedd yn gwaſnaethu Duw ei creawdr mewn iſeldia a chariad mawr.</p>
+            <p>D. <hi>Pam gan hyny y mae Duw yn cynnwys ir fath gynnen ag ymryſon
+<pb n="125" facs="tcp:174172:70"/>
+yod yn yr amſer yma?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mae 'r bywyd ei hunan yn ſefyll mewn ymryſon fel y gwneler ef yn hysbys, yn amlwg ag yn deimladwy, ag fel y gwneler y Ddoethineb yn wahanedig ag yn adnabyddus, a hyn hefyd ſydd yn peri llawenydd tragwyddol am y fuddigoliaeth. Oblegid oddiwrth hyn fe gyfyd mawr foliant yn y ſeinctiau, ddarfod i Ghriſt ynddynt hwy orchfygu 'r tywyllwch, a holl hunan y naturiaeth, ai bod nhwy wedi cael ei gwared oddi<g ref="char:EOLhyphen"/>wrth y frwydr: ag yn hyn yr ym<g ref="char:EOLhyphen"/>hyfrydant byth, pan wybyddont pa fodd y telir ir Anuwiol. Ag am hyny mae Duw yn dioddef i bob peth ſefyll mewn ewyllys rhydd, fel y dangoſer yn amlwg dragw<g ref="char:EOLhyphen"/>yddol Arglwyddiaeth y cariad ar digofaint y goleuniar tywyllwch) ag fel y cyfodo barn pob bywyd ai ſentens ynddo ei hunan. Canys yr hyn ſydd yr awron yn boen ag yn
+<pb n="126" facs="tcp:174172:71"/>
+aneſmwythdra ir ſeinctiau yn ei trueni, a droir i fod yn lla<g ref="char:EOLhyphen"/>wenydd anfeidrol iddynt. Ar peth a fu yn llawenydd ag yn bleſer ir rhai anuwiol yn y byd yma a droir i fod yn boen ag yn gywilydd tragwyddol iddynt hwythau. Am hyny rhaid i lawe<g ref="char:EOLhyphen"/>nydd y ſeinctiau gyfodi idddynt allan o angau (yr vn fath ag y cyfyd y goleuni allan or ganwyll drwy i marw ai difa yn y tân)fel v rhyddhaer y bywyd eddiwrth boen naturiaeth i feddiannu byd arall. Ag fel y mae ir goleuni amgen cyneddf nag ſydd ir tân (canys mae fo yn i <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oddi ei hun, ond mae'r tân yn ymgymrd ag yn i ddiddymu ei hun) felly y mae ſanctaidd fywyd addfwynder yn tarddu i fynu drwy angau, pan fo marw yr Hunan ewyllys, ag yno ewyllys cariadus Duw yn vnig ſydd yn rheoli ag yn gweithio oll yn oll. Oblegid fel hyn y cyr<g ref="char:EOLhyphen"/>haeddodd
+<pb n="127" facs="tcp:174172:71"/>
+yr vn tragwyddol de<g ref="char:EOLhyphen"/>imlad a gwahaniad, gan ymddwyn allan eilwaith gida 'r teimlad drwy angau mewn mawr lawenydd, fel y byddai hyfrydwch tragwyddol yn yr vndeb anfeidrol, ag achos diddiwedd or digrifwch. Ag am hyny rhaid iw ir boen fod yn a<g ref="char:EOLhyphen"/>chos neu yn wreiddyn ir yſgogiad yma, ag ir cynhyrfiad ſydd yn agoryd ffordd i ddatcuddio pob peth, Ag yn hyn (yma) y mae yn ſefyll ddirgelwch guddiedig ddoe<g ref="char:EOLhyphen"/>thineb Duw.</p>
+            <p>
+               <hi>Pob un ar a ofynno, a dderbyn, Pob un ar a geiſio a gaiff. Ag i bob un ar a guro yr egorir. Gras ein Harglwydd Jesſu Ghriſt a ſerch Duw, a chymdeithas yr ysbryd glan a fo gida chwi all. Amen.</hi>
+            </p>
+            <p>Moliennwch yr Arglwydd, canys chwi a ddaethoch yr a wron i fynydd Sion, i ddinas Duw, ir Gaerſalem nefol, i fyſg myrddiwn
+<pb n="128" facs="tcp:174172:72"/>
+O Angelion, i gymanfa a chynhu<g ref="char:EOLhyphen"/>lleidfa rhai cyntafanedig, y rhai a a ſcrifennwyd yn y nefoedd, ag at Dduw barnwr pawb, ag at ysbry<g ref="char:EOLhyphen"/>doedd y cyfiawn y rhai a berffeithi<g ref="char:EOLhyphen"/>wyd, ag at Jeſu cyfryngwr y Te<g ref="char:EOLhyphen"/>ſtament newydd, a gwaed y tane<g ref="char:EOLhyphen"/>lliad, yr hwn ſydd yn dywedyd pethau gwell nar eiddo Abel.</p>
+            <p>
+               <hi>Amen Moliant a Gogoniant a doethi<g ref="char:EOLhyphen"/>neb a diolch ag anrhydedd ag aw<g ref="char:EOLhyphen"/>durded a nerth, a fo ir hwn ſydd yn e ſtedd ar yr or ſeddfaingc. Ein Duw ni ar Oen byth ag yn dragy<g ref="char:EOLhyphen"/>wydd.</hi> Amen.</p>
+            <q>
+               <l>
+                  <hi>Na chamgymer mor llyfr yma:</hi>
+               </l>
+               <l>
+                  <hi>Ir gân ysbryd nag</hi> ymrodda:</l>
+               <l>
+                  <hi>Maddau wendid y cyfiaithydd:</hi>
+               </l>
+               <l>
+                  <hi>A gweddiwn dros ei gilydd</hi>
+               </l>
+            </q>
+            <trailer>TERFYN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
